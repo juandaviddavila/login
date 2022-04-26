@@ -1,0 +1,6734 @@
+[
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "MEDELLIN"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "002",
+        "nombreMunicipio": "ABEJORRAL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "004",
+        "nombreMunicipio": "ABRIAQUI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "021",
+        "nombreMunicipio": "ALEJANDRIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "030",
+        "nombreMunicipio": "AMAGA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "031",
+        "nombreMunicipio": "AMALFI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "034",
+        "nombreMunicipio": "ANDES"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "036",
+        "nombreMunicipio": "ANGELOPOLIS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "038",
+        "nombreMunicipio": "ANGOSTURA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "040",
+        "nombreMunicipio": "ANORI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "042",
+        "nombreMunicipio": "SANTAFE DE ANTIOQUIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "044",
+        "nombreMunicipio": "ANZA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "045",
+        "nombreMunicipio": "APARTADO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "051",
+        "nombreMunicipio": "ARBOLETES"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "055",
+        "nombreMunicipio": "ARGELIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "059",
+        "nombreMunicipio": "ARMENIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "079",
+        "nombreMunicipio": "BARBOSA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "086",
+        "nombreMunicipio": "BELMIRA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "088",
+        "nombreMunicipio": "BELLO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "091",
+        "nombreMunicipio": "BETANIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": "093",
+        "nombreMunicipio": "BETULIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 101,
+        "nombreMunicipio": "CIUDAD BOLIVAR"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 107,
+        "nombreMunicipio": "BRICEÑO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 113,
+        "nombreMunicipio": "BURITICA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 120,
+        "nombreMunicipio": "CACERES"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 125,
+        "nombreMunicipio": "CAICEDO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 129,
+        "nombreMunicipio": "CALDAS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 134,
+        "nombreMunicipio": "CAMPAMENTO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 138,
+        "nombreMunicipio": "CAÑASGORDAS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 142,
+        "nombreMunicipio": "CARACOLI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 145,
+        "nombreMunicipio": "CARAMANTA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 147,
+        "nombreMunicipio": "CAREPA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 148,
+        "nombreMunicipio": "EL CARMEN DE VIBORAL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 150,
+        "nombreMunicipio": "CAROLINA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 154,
+        "nombreMunicipio": "CAUCASIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 172,
+        "nombreMunicipio": "CHIGORODO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 190,
+        "nombreMunicipio": "CISNEROS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 197,
+        "nombreMunicipio": "COCORNA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 206,
+        "nombreMunicipio": "CONCEPCION"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 209,
+        "nombreMunicipio": "CONCORDIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 212,
+        "nombreMunicipio": "COPACABANA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 234,
+        "nombreMunicipio": "DABEIBA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 237,
+        "nombreMunicipio": "DON MATIAS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 240,
+        "nombreMunicipio": "EBEJICO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL BAGRE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 264,
+        "nombreMunicipio": "ENTRERRIOS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 266,
+        "nombreMunicipio": "ENVIGADO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 282,
+        "nombreMunicipio": "FREDONIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 284,
+        "nombreMunicipio": "FRONTINO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 306,
+        "nombreMunicipio": "GIRALDO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 308,
+        "nombreMunicipio": "GIRARDOTA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 310,
+        "nombreMunicipio": "GOMEZ PLATA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 313,
+        "nombreMunicipio": "GRANADA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 315,
+        "nombreMunicipio": "GUADALUPE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUARNE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 321,
+        "nombreMunicipio": "GUATAPE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 347,
+        "nombreMunicipio": "HELICONIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 353,
+        "nombreMunicipio": "HISPANIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 360,
+        "nombreMunicipio": "ITAGUI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 361,
+        "nombreMunicipio": "ITUANGO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 364,
+        "nombreMunicipio": "JARDIN"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 368,
+        "nombreMunicipio": "JERICO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 376,
+        "nombreMunicipio": "LA CEJA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 380,
+        "nombreMunicipio": "LA ESTRELLA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 390,
+        "nombreMunicipio": "LA PINTADA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LA UNION"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 411,
+        "nombreMunicipio": "LIBORINA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 425,
+        "nombreMunicipio": "MACEO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 440,
+        "nombreMunicipio": "MARINILLA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 467,
+        "nombreMunicipio": "MONTEBELLO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 475,
+        "nombreMunicipio": "MURINDO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 480,
+        "nombreMunicipio": "MUTATA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 483,
+        "nombreMunicipio": "NARIÑO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 490,
+        "nombreMunicipio": "NECOCLI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 495,
+        "nombreMunicipio": "NECHI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 501,
+        "nombreMunicipio": "OLAYA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 541,
+        "nombreMunicipio": "PEÐOL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 543,
+        "nombreMunicipio": "PEQUE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 576,
+        "nombreMunicipio": "PUEBLORRICO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 579,
+        "nombreMunicipio": "PUERTO BERRIO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 585,
+        "nombreMunicipio": "PUERTO NARE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 591,
+        "nombreMunicipio": "PUERTO TRIUNFO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 604,
+        "nombreMunicipio": "REMEDIOS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 607,
+        "nombreMunicipio": "RETIRO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 615,
+        "nombreMunicipio": "RIONEGRO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 628,
+        "nombreMunicipio": "SABANALARGA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 631,
+        "nombreMunicipio": "SABANETA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 642,
+        "nombreMunicipio": "SALGAR"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 647,
+        "nombreMunicipio": "SAN ANDRES DE CUERQUIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 649,
+        "nombreMunicipio": "SAN CARLOS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 652,
+        "nombreMunicipio": "SAN FRANCISCO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 656,
+        "nombreMunicipio": "SAN JERONIMO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 658,
+        "nombreMunicipio": "SAN JOSE DE LA MONTAÑA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 659,
+        "nombreMunicipio": "SAN JUAN DE URABA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SAN LUIS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 664,
+        "nombreMunicipio": "SAN PEDRO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 665,
+        "nombreMunicipio": "SAN PEDRO DE URABA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 667,
+        "nombreMunicipio": "SAN RAFAEL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAN ROQUE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 674,
+        "nombreMunicipio": "SAN VICENTE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 679,
+        "nombreMunicipio": "SANTA BARBARA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 541,
+        "nombreMunicipio": "PEÑOL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SANTA ROSA DE OSOS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 690,
+        "nombreMunicipio": "SANTO DOMINGO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 697,
+        "nombreMunicipio": "EL SANTUARIO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 736,
+        "nombreMunicipio": "SEGOVIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 756,
+        "nombreMunicipio": "SONSON"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 761,
+        "nombreMunicipio": "SOPETRAN"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 789,
+        "nombreMunicipio": "TAMESIS"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 790,
+        "nombreMunicipio": "TARAZA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 792,
+        "nombreMunicipio": "TARSO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 809,
+        "nombreMunicipio": "TITIRIBI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 819,
+        "nombreMunicipio": "TOLEDO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 837,
+        "nombreMunicipio": "TURBO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 842,
+        "nombreMunicipio": "URAMITA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 847,
+        "nombreMunicipio": "URRAO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 854,
+        "nombreMunicipio": "VALDIVIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 856,
+        "nombreMunicipio": "VALPARAISO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 858,
+        "nombreMunicipio": "VEGACHI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 861,
+        "nombreMunicipio": "VENECIA"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 873,
+        "nombreMunicipio": "VIGIA DEL FUERTE"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "YALI"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 887,
+        "nombreMunicipio": "YARUMAL"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 890,
+        "nombreMunicipio": "YOLOMBO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 893,
+        "nombreMunicipio": "YONDO"
+    },
+    {
+        "codigoDeapartamento": "05",
+        "nombreDepartamento": "ANTIOQUIA",
+        "codigo_Municipio": 895,
+        "nombreMunicipio": "ZARAGOZA"
+    },
+
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "BARRANQUILLA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": "078",
+        "nombreMunicipio": "BARANOA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 137,
+        "nombreMunicipio": "CAMPO DE LA CRUZ"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 141,
+        "nombreMunicipio": "CANDELARIA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 296,
+        "nombreMunicipio": "GALAPA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 372,
+        "nombreMunicipio": "JUAN DE ACOSTA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 421,
+        "nombreMunicipio": "LURUACO"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 433,
+        "nombreMunicipio": "MALAMBO"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 436,
+        "nombreMunicipio": "MANATI"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 520,
+        "nombreMunicipio": "PALMAR DE VARELA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 549,
+        "nombreMunicipio": "PIOJO"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 558,
+        "nombreMunicipio": "POLONUEVO"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 560,
+        "nombreMunicipio": "PONEDERA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "PUERTO COLOMBIA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 606,
+        "nombreMunicipio": "REPELON"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 634,
+        "nombreMunicipio": "SABANAGRANDE"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 638,
+        "nombreMunicipio": "SABANALARGA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 675,
+        "nombreMunicipio": "SANTA LUCIA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 685,
+        "nombreMunicipio": "SANTO TOMAS"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 758,
+        "nombreMunicipio": "SOLEDAD"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 770,
+        "nombreMunicipio": "SUAN"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 832,
+        "nombreMunicipio": "TUBARA"
+    },
+    {
+        "codigoDeapartamento": "08",
+        "nombreDepartamento": "ATLANTICO",
+        "codigo_Municipio": 849,
+        "nombreMunicipio": "USIACURI"
+    },
+    {
+        "codigoDeapartamento": 11,
+        "nombreDepartamento": "BOGOTA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "BOGOTA, D.C."
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "CARTAGENA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "006",
+        "nombreMunicipio": "ACHI"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "030",
+        "nombreMunicipio": "ALTOS DEL ROSARIO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "042",
+        "nombreMunicipio": "ARENAL"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "052",
+        "nombreMunicipio": "ARJONA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "062",
+        "nombreMunicipio": "ARROYOHONDO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": "074",
+        "nombreMunicipio": "BARRANCO DE LOBA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 140,
+        "nombreMunicipio": "CALAMAR"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 160,
+        "nombreMunicipio": "CANTAGALLO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 188,
+        "nombreMunicipio": "CICUCO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 212,
+        "nombreMunicipio": "CORDOBA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 222,
+        "nombreMunicipio": "CLEMENCIA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 244,
+        "nombreMunicipio": "EL CARMEN DE BOLIVAR"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 248,
+        "nombreMunicipio": "EL GUAMO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 268,
+        "nombreMunicipio": "EL PEÑON"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 300,
+        "nombreMunicipio": "HATILLO DE LOBA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "MAGANGUE"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 433,
+        "nombreMunicipio": "MAHATES"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 440,
+        "nombreMunicipio": "MARGARITA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 442,
+        "nombreMunicipio": "MARIA LA BAJA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 458,
+        "nombreMunicipio": "MONTECRISTO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 468,
+        "nombreMunicipio": "MOMPOS"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 490,
+        "nombreMunicipio": "NOROSI"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 473,
+        "nombreMunicipio": "MORALES"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 549,
+        "nombreMunicipio": "PINILLOS"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 580,
+        "nombreMunicipio": "REGIDOR"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 600,
+        "nombreMunicipio": "RIO VIEJO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 620,
+        "nombreMunicipio": "SAN CRISTOBAL"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 647,
+        "nombreMunicipio": "SAN ESTANISLAO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 650,
+        "nombreMunicipio": "SAN FERNANDO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 654,
+        "nombreMunicipio": "SAN JACINTO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 655,
+        "nombreMunicipio": "SAN JACINTO DEL CAUCA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 657,
+        "nombreMunicipio": "SAN JUAN NEPOMUCENO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 667,
+        "nombreMunicipio": "SAN MARTIN DE LOBA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAN PABLO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 673,
+        "nombreMunicipio": "SANTA CATALINA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 683,
+        "nombreMunicipio": "SANTA ROSA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 688,
+        "nombreMunicipio": "SANTA ROSA DEL SUR"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 744,
+        "nombreMunicipio": "SIMITI"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 760,
+        "nombreMunicipio": "SOPLAVIENTO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 780,
+        "nombreMunicipio": "TALAIGUA NUEVO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 810,
+        "nombreMunicipio": "TIQUISIO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 836,
+        "nombreMunicipio": "TURBACO"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 838,
+        "nombreMunicipio": "TURBANA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 873,
+        "nombreMunicipio": "VILLANUEVA"
+    },
+    {
+        "codigoDeapartamento": 13,
+        "nombreDepartamento": "BOLIVAR",
+        "codigo_Municipio": 894,
+        "nombreMunicipio": "ZAMBRANO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "TUNJA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "022",
+        "nombreMunicipio": "ALMEIDA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "047",
+        "nombreMunicipio": "AQUITANIA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "051",
+        "nombreMunicipio": "ARCABUCO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "087",
+        "nombreMunicipio": "BELEN"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "090",
+        "nombreMunicipio": "BERBEO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "092",
+        "nombreMunicipio": "BETEITIVA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": "097",
+        "nombreMunicipio": "BOAVITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 104,
+        "nombreMunicipio": "BOYACA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 106,
+        "nombreMunicipio": "BRICEÑO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 109,
+        "nombreMunicipio": "BUENAVISTA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 114,
+        "nombreMunicipio": "BUSBANZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 131,
+        "nombreMunicipio": "CALDAS"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 135,
+        "nombreMunicipio": "CAMPOHERMOSO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 162,
+        "nombreMunicipio": "CERINZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 172,
+        "nombreMunicipio": "CHINAVITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 176,
+        "nombreMunicipio": "CHIQUINQUIRA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 180,
+        "nombreMunicipio": "CHISCAS"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 183,
+        "nombreMunicipio": "CHITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 185,
+        "nombreMunicipio": "CHITARAQUE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 187,
+        "nombreMunicipio": "CHIVATA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 189,
+        "nombreMunicipio": "CIENEGA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 204,
+        "nombreMunicipio": "COMBITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 212,
+        "nombreMunicipio": "COPER"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 215,
+        "nombreMunicipio": "CORRALES"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 218,
+        "nombreMunicipio": "COVARACHIA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 223,
+        "nombreMunicipio": "CUBARA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 224,
+        "nombreMunicipio": "CUCAITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 226,
+        "nombreMunicipio": "CUITIVA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 232,
+        "nombreMunicipio": "CHIQUIZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 236,
+        "nombreMunicipio": "CHIVOR"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 238,
+        "nombreMunicipio": "DUITAMA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 244,
+        "nombreMunicipio": "EL COCUY"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 248,
+        "nombreMunicipio": "EL ESPINO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 272,
+        "nombreMunicipio": "FIRAVITOBA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 276,
+        "nombreMunicipio": "FLORESTA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 293,
+        "nombreMunicipio": "GACHANTIVA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 296,
+        "nombreMunicipio": "GAMEZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 299,
+        "nombreMunicipio": "GARAGOA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 317,
+        "nombreMunicipio": "GUACAMAYAS"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 322,
+        "nombreMunicipio": "GUATEQUE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 325,
+        "nombreMunicipio": "GUAYATA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 332,
+        "nombreMunicipio": "GsICAN"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 362,
+        "nombreMunicipio": "IZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 367,
+        "nombreMunicipio": "JENESANO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 368,
+        "nombreMunicipio": "JERICO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 377,
+        "nombreMunicipio": "LABRANZAGRANDE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 380,
+        "nombreMunicipio": "LA CAPILLA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 401,
+        "nombreMunicipio": "LA VICTORIA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 403,
+        "nombreMunicipio": "LA UVITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 407,
+        "nombreMunicipio": "VILLA DE LEYVA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 425,
+        "nombreMunicipio": "MACANAL"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 442,
+        "nombreMunicipio": "MARIPI"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 455,
+        "nombreMunicipio": "MIRAFLORES"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 464,
+        "nombreMunicipio": "MONGUA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 466,
+        "nombreMunicipio": "MONGUI"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 469,
+        "nombreMunicipio": "MONIQUIRA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 476,
+        "nombreMunicipio": "MOTAVITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 480,
+        "nombreMunicipio": "MUZO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 491,
+        "nombreMunicipio": "NOBSA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 494,
+        "nombreMunicipio": "NUEVO COLON"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 500,
+        "nombreMunicipio": "OICATA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 507,
+        "nombreMunicipio": "OTANCHE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 511,
+        "nombreMunicipio": "PACHAVITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 514,
+        "nombreMunicipio": "PAEZ"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 516,
+        "nombreMunicipio": "PAIPA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 518,
+        "nombreMunicipio": "PAJARITO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 522,
+        "nombreMunicipio": "PANQUEBA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 531,
+        "nombreMunicipio": "PAUNA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 533,
+        "nombreMunicipio": "PAYA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 537,
+        "nombreMunicipio": "PAZ DE RIO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 542,
+        "nombreMunicipio": "PESCA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 550,
+        "nombreMunicipio": "PISBA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 572,
+        "nombreMunicipio": "PUERTO BOYACA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 580,
+        "nombreMunicipio": "QUIPAMA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 599,
+        "nombreMunicipio": "RAMIRIQUI"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 600,
+        "nombreMunicipio": "RAQUIRA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 621,
+        "nombreMunicipio": "RONDON"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 632,
+        "nombreMunicipio": "SABOYA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 638,
+        "nombreMunicipio": "SACHICA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 646,
+        "nombreMunicipio": "SAMACA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SAN EDUARDO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 664,
+        "nombreMunicipio": "SAN JOSE DE PARE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 667,
+        "nombreMunicipio": "SAN LUIS DE GACENO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 673,
+        "nombreMunicipio": "SAN MATEO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 676,
+        "nombreMunicipio": "SAN MIGUEL DE SEMA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 681,
+        "nombreMunicipio": "SAN PABLO DE BORBUR"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SANTANA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 690,
+        "nombreMunicipio": "SANTA MARIA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 693,
+        "nombreMunicipio": "SANTA ROSA DE VITERBO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 696,
+        "nombreMunicipio": "SANTA SOFIA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 720,
+        "nombreMunicipio": "SATIVANORTE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 723,
+        "nombreMunicipio": "SATIVASUR"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 740,
+        "nombreMunicipio": "SIACHOQUE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 753,
+        "nombreMunicipio": "SOATA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 755,
+        "nombreMunicipio": "SOCOTA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 757,
+        "nombreMunicipio": "SOCHA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 759,
+        "nombreMunicipio": "SOGAMOSO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 761,
+        "nombreMunicipio": "SOMONDOCO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 762,
+        "nombreMunicipio": "SORA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 763,
+        "nombreMunicipio": "SOTAQUIRA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 764,
+        "nombreMunicipio": "SORACA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 774,
+        "nombreMunicipio": "SUSACON"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 776,
+        "nombreMunicipio": "SUTAMARCHAN"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 778,
+        "nombreMunicipio": "SUTATENZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 790,
+        "nombreMunicipio": "TASCO"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 798,
+        "nombreMunicipio": "TENZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 804,
+        "nombreMunicipio": "TIBANA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 806,
+        "nombreMunicipio": "TIBASOSA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 808,
+        "nombreMunicipio": "TINJACA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 810,
+        "nombreMunicipio": "TIPACOQUE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 814,
+        "nombreMunicipio": "TOCA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 816,
+        "nombreMunicipio": "TOGsI"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 820,
+        "nombreMunicipio": "TOPAGA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 822,
+        "nombreMunicipio": "TOTA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 832,
+        "nombreMunicipio": "TUNUNGUA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 835,
+        "nombreMunicipio": "TURMEQUE"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 837,
+        "nombreMunicipio": "TUTA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 839,
+        "nombreMunicipio": "TUTAZA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 842,
+        "nombreMunicipio": "UMBITA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 861,
+        "nombreMunicipio": "VENTAQUEMADA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 879,
+        "nombreMunicipio": "VIRACACHA"
+    },
+    {
+        "codigoDeapartamento": 15,
+        "nombreDepartamento": "BOYACA",
+        "codigo_Municipio": 897,
+        "nombreMunicipio": "ZETAQUIRA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "MANIZALES"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": "013",
+        "nombreMunicipio": "AGUADAS"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": "042",
+        "nombreMunicipio": "ANSERMA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": "050",
+        "nombreMunicipio": "ARANZAZU"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": "088",
+        "nombreMunicipio": "BELALCAZAR"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 174,
+        "nombreMunicipio": "CHINCHINA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 272,
+        "nombreMunicipio": "FILADELFIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 380,
+        "nombreMunicipio": "LA DORADA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 388,
+        "nombreMunicipio": "LA MERCED"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 433,
+        "nombreMunicipio": "MANZANARES"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 442,
+        "nombreMunicipio": "MARMATO"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 444,
+        "nombreMunicipio": "MARQUETALIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 446,
+        "nombreMunicipio": "MARULANDA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 486,
+        "nombreMunicipio": "NEIRA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 495,
+        "nombreMunicipio": "NORCASIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 513,
+        "nombreMunicipio": "PACORA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 524,
+        "nombreMunicipio": "PALESTINA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 541,
+        "nombreMunicipio": "PENSILVANIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 614,
+        "nombreMunicipio": "RIOSUCIO"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 616,
+        "nombreMunicipio": "RISARALDA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 653,
+        "nombreMunicipio": "SALAMINA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 662,
+        "nombreMunicipio": "SAMANA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 665,
+        "nombreMunicipio": "SAN JOSE"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 777,
+        "nombreMunicipio": "SUPIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 867,
+        "nombreMunicipio": "VICTORIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 873,
+        "nombreMunicipio": "VILLAMARIA"
+    },
+    {
+        "codigoDeapartamento": 17,
+        "nombreDepartamento": "CALDAS",
+        "codigo_Municipio": 877,
+        "nombreMunicipio": "VITERBO"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "FLORENCIA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": "029",
+        "nombreMunicipio": "ALBANIA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": "094",
+        "nombreMunicipio": "BELEN DE LOS ANDAQUIES"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 150,
+        "nombreMunicipio": "CARTAGENA DEL CHAIRA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 205,
+        "nombreMunicipio": "CURILLO"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 247,
+        "nombreMunicipio": "EL DONCELLO"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 256,
+        "nombreMunicipio": "EL PAUJIL"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 410,
+        "nombreMunicipio": "LA MONTAÑITA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 460,
+        "nombreMunicipio": "MILAN"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 479,
+        "nombreMunicipio": "MORELIA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 592,
+        "nombreMunicipio": "PUERTO RICO"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 610,
+        "nombreMunicipio": "SAN JOSE DEL FRAGUA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 753,
+        "nombreMunicipio": "SAN VICENTE DEL CAGUAN"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 756,
+        "nombreMunicipio": "SOLANO"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 785,
+        "nombreMunicipio": "SOLITA"
+    },
+    {
+        "codigoDeapartamento": 18,
+        "nombreDepartamento": "CAQUETA",
+        "codigo_Municipio": 860,
+        "nombreMunicipio": "VALPARAISO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "POPAYAN"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": "022",
+        "nombreMunicipio": "ALMAGUER"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": "050",
+        "nombreMunicipio": "ARGELIA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": "075",
+        "nombreMunicipio": "BALBOA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 100,
+        "nombreMunicipio": "BOLIVAR"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 110,
+        "nombreMunicipio": "BUENOS AIRES"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 130,
+        "nombreMunicipio": "CAJIBIO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 137,
+        "nombreMunicipio": "CALDONO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 142,
+        "nombreMunicipio": "CALOTO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 212,
+        "nombreMunicipio": "CORINTO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 256,
+        "nombreMunicipio": "EL TAMBO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 290,
+        "nombreMunicipio": "FLORENCIA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 300,
+        "nombreMunicipio": "GUACHENE"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUAPI"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 355,
+        "nombreMunicipio": "INZA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 364,
+        "nombreMunicipio": "JAMBALO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 392,
+        "nombreMunicipio": "LA SIERRA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 397,
+        "nombreMunicipio": "LA VEGA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 418,
+        "nombreMunicipio": "LOPEZ"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 450,
+        "nombreMunicipio": "MERCADERES"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 455,
+        "nombreMunicipio": "MIRANDA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 473,
+        "nombreMunicipio": "MORALES"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 513,
+        "nombreMunicipio": "PADILLA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 517,
+        "nombreMunicipio": "PAEZ"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 532,
+        "nombreMunicipio": "PATIA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 533,
+        "nombreMunicipio": "PIAMONTE"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 548,
+        "nombreMunicipio": "PIENDAMO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "PUERTO TEJADA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 585,
+        "nombreMunicipio": "PURACE"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 622,
+        "nombreMunicipio": "ROSAS"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 693,
+        "nombreMunicipio": "SAN SEBASTIAN"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 698,
+        "nombreMunicipio": "SANTANDER DE QUILICHAO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 701,
+        "nombreMunicipio": "SANTA ROSA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 743,
+        "nombreMunicipio": "SILVIA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 760,
+        "nombreMunicipio": "SOTARA"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 780,
+        "nombreMunicipio": "SUAREZ"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 785,
+        "nombreMunicipio": "SUCRE"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 807,
+        "nombreMunicipio": "TIMBIO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 809,
+        "nombreMunicipio": "TIMBIQUI"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 821,
+        "nombreMunicipio": "TORIBIO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 824,
+        "nombreMunicipio": "TOTORO"
+    },
+    {
+        "codigoDeapartamento": 19,
+        "nombreDepartamento": "CAUCA",
+        "codigo_Municipio": 845,
+        "nombreMunicipio": "VILLA RICA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "VALLEDUPAR"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "011",
+        "nombreMunicipio": "AGUACHICA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "013",
+        "nombreMunicipio": "AGUSTIN CODAZZI"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "032",
+        "nombreMunicipio": "ASTREA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "045",
+        "nombreMunicipio": "BECERRIL"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": "060",
+        "nombreMunicipio": "BOSCONIA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 175,
+        "nombreMunicipio": "CHIMICHAGUA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 178,
+        "nombreMunicipio": "CHIRIGUANA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 228,
+        "nombreMunicipio": "CURUMANI"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 238,
+        "nombreMunicipio": "EL COPEY"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL PASO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 295,
+        "nombreMunicipio": "GAMARRA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 310,
+        "nombreMunicipio": "GONZALEZ"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 383,
+        "nombreMunicipio": "LA GLORIA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LA JAGUA DE IBIRICO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 443,
+        "nombreMunicipio": "MANAURE"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 517,
+        "nombreMunicipio": "PAILITAS"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 550,
+        "nombreMunicipio": "PELAYA"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 570,
+        "nombreMunicipio": "PUEBLO BELLO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 614,
+        "nombreMunicipio": "RIO DE ORO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 621,
+        "nombreMunicipio": "LA PAZ"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 710,
+        "nombreMunicipio": "SAN ALBERTO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 750,
+        "nombreMunicipio": "SAN DIEGO"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 770,
+        "nombreMunicipio": "SAN MARTIN"
+    },
+    {
+        "codigoDeapartamento": 20,
+        "nombreDepartamento": "CESAR",
+        "codigo_Municipio": 787,
+        "nombreMunicipio": "TAMALAMEQUE"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "MONTERIA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": "068",
+        "nombreMunicipio": "AYAPEL"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": "079",
+        "nombreMunicipio": "BUENAVISTA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": "090",
+        "nombreMunicipio": "CANALETE"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 162,
+        "nombreMunicipio": "CERETE"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 168,
+        "nombreMunicipio": "CHIMA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 182,
+        "nombreMunicipio": "CHINU"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 189,
+        "nombreMunicipio": "CIENAGA DE ORO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 300,
+        "nombreMunicipio": "COTORRA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 350,
+        "nombreMunicipio": "LA APARTADA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 417,
+        "nombreMunicipio": "LORICA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 419,
+        "nombreMunicipio": "LOS CORDOBAS"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 464,
+        "nombreMunicipio": "MOMIL"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 466,
+        "nombreMunicipio": "MONTELIBANO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 500,
+        "nombreMunicipio": "MOÑITOS"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 555,
+        "nombreMunicipio": "PLANETA RICA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 570,
+        "nombreMunicipio": "PUEBLO NUEVO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 574,
+        "nombreMunicipio": "PUERTO ESCONDIDO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 580,
+        "nombreMunicipio": "PUERTO LIBERTADOR"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 586,
+        "nombreMunicipio": "PURISIMA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SAHAGUN"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAN ANDRES SOTAVENTO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 672,
+        "nombreMunicipio": "SAN ANTERO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 675,
+        "nombreMunicipio": "SAN BERNARDO DEL VIENTO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 678,
+        "nombreMunicipio": "SAN CARLOS"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SAN PELAYO"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 807,
+        "nombreMunicipio": "TIERRALTA"
+    },
+    {
+        "codigoDeapartamento": 23,
+        "nombreDepartamento": "CORDOBA",
+        "codigo_Municipio": 855,
+        "nombreMunicipio": "VALENCIA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "AGUA DE DIOS"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "019",
+        "nombreMunicipio": "ALBAN"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "035",
+        "nombreMunicipio": "ANAPOIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "040",
+        "nombreMunicipio": "ANOLAIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "053",
+        "nombreMunicipio": "ARBELAEZ"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "086",
+        "nombreMunicipio": "BELTRAN"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "095",
+        "nombreMunicipio": "BITUIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": "099",
+        "nombreMunicipio": "BOJACA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 120,
+        "nombreMunicipio": "CABRERA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 123,
+        "nombreMunicipio": "CACHIPAY"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 126,
+        "nombreMunicipio": "CAJICA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 148,
+        "nombreMunicipio": "CAPARRAPI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 151,
+        "nombreMunicipio": "CAQUEZA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 154,
+        "nombreMunicipio": "CARMEN DE CARUPA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 168,
+        "nombreMunicipio": "CHAGUANI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 175,
+        "nombreMunicipio": "CHIA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 178,
+        "nombreMunicipio": "CHIPAQUE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 181,
+        "nombreMunicipio": "CHOACHI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 183,
+        "nombreMunicipio": "CHOCONTA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 200,
+        "nombreMunicipio": "COGUA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 214,
+        "nombreMunicipio": "COTA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 224,
+        "nombreMunicipio": "CUCUNUBA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL COLEGIO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 258,
+        "nombreMunicipio": "EL PEÑON"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 260,
+        "nombreMunicipio": "EL ROSAL"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 269,
+        "nombreMunicipio": "FACATATIVA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 279,
+        "nombreMunicipio": "FOMEQUE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 281,
+        "nombreMunicipio": "FOSCA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 286,
+        "nombreMunicipio": "FUNZA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 288,
+        "nombreMunicipio": "FUQUENE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 290,
+        "nombreMunicipio": "FUSAGASUGA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 293,
+        "nombreMunicipio": "GACHALA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 295,
+        "nombreMunicipio": "GACHANCIPA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 297,
+        "nombreMunicipio": "GACHETA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 299,
+        "nombreMunicipio": "GAMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 307,
+        "nombreMunicipio": "GIRARDOT"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 312,
+        "nombreMunicipio": "GRANADA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 317,
+        "nombreMunicipio": "GUACHETA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 320,
+        "nombreMunicipio": "GUADUAS"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 322,
+        "nombreMunicipio": "GUASCA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 324,
+        "nombreMunicipio": "GUATAQUI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 326,
+        "nombreMunicipio": "GUATAVITA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 328,
+        "nombreMunicipio": "GUAYABAL DE SIQUIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 335,
+        "nombreMunicipio": "GUAYABETAL"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 339,
+        "nombreMunicipio": "GUTIERREZ"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 368,
+        "nombreMunicipio": "JERUSALEN"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 372,
+        "nombreMunicipio": "JUNIN"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 377,
+        "nombreMunicipio": "LA CALERA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 386,
+        "nombreMunicipio": "LA MESA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 394,
+        "nombreMunicipio": "LA PALMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 398,
+        "nombreMunicipio": "LA PEÑA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 402,
+        "nombreMunicipio": "LA VEGA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 407,
+        "nombreMunicipio": "LENGUAZAQUE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 426,
+        "nombreMunicipio": "MACHETA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "MADRID"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 436,
+        "nombreMunicipio": "MANTA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 438,
+        "nombreMunicipio": "MEDINA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 473,
+        "nombreMunicipio": "MOSQUERA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 483,
+        "nombreMunicipio": "NARIÑO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 486,
+        "nombreMunicipio": "NEMOCON"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 488,
+        "nombreMunicipio": "NILO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 489,
+        "nombreMunicipio": "NIMAIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 491,
+        "nombreMunicipio": "NOCAIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 506,
+        "nombreMunicipio": "VENECIA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 513,
+        "nombreMunicipio": "PACHO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 518,
+        "nombreMunicipio": "PAIME"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 524,
+        "nombreMunicipio": "PANDI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 530,
+        "nombreMunicipio": "PARATEBUENO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 535,
+        "nombreMunicipio": "PASCA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 572,
+        "nombreMunicipio": "PUERTO SALGAR"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 580,
+        "nombreMunicipio": "PULI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 592,
+        "nombreMunicipio": "QUEBRADANEGRA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 594,
+        "nombreMunicipio": "QUETAME"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 596,
+        "nombreMunicipio": "QUIPILE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 599,
+        "nombreMunicipio": "APULO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 612,
+        "nombreMunicipio": "RICAURTE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 645,
+        "nombreMunicipio": "SAN ANTONIO DEL TEQUENDAMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 649,
+        "nombreMunicipio": "SAN BERNARDO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 653,
+        "nombreMunicipio": "SAN CAYETANO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 658,
+        "nombreMunicipio": "SAN FRANCISCO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 662,
+        "nombreMunicipio": "SAN JUAN DE RIO SECO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 718,
+        "nombreMunicipio": "SASAIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 736,
+        "nombreMunicipio": "SESQUILE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 740,
+        "nombreMunicipio": "SIBATE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 743,
+        "nombreMunicipio": "SILVANIA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 745,
+        "nombreMunicipio": "SIMIJACA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 754,
+        "nombreMunicipio": "SOACHA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 758,
+        "nombreMunicipio": "SOPO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 769,
+        "nombreMunicipio": "SUBACHOQUE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 772,
+        "nombreMunicipio": "SUESCA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 777,
+        "nombreMunicipio": "SUPATA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 779,
+        "nombreMunicipio": "SUSA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 781,
+        "nombreMunicipio": "SUTATAUSA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 785,
+        "nombreMunicipio": "TABIO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 793,
+        "nombreMunicipio": "TAUSA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 797,
+        "nombreMunicipio": "TENA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 799,
+        "nombreMunicipio": "TENJO"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 805,
+        "nombreMunicipio": "TIBACUY"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 807,
+        "nombreMunicipio": "TIBIRITA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 815,
+        "nombreMunicipio": "TOCAIMA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 817,
+        "nombreMunicipio": "TOCANCIPA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 823,
+        "nombreMunicipio": "TOPAIPI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 839,
+        "nombreMunicipio": "UBALA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 841,
+        "nombreMunicipio": "UBAQUE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 843,
+        "nombreMunicipio": "VILLA DE SAN DIEGO DE UBATE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 845,
+        "nombreMunicipio": "UNE"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 851,
+        "nombreMunicipio": "UTICA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 862,
+        "nombreMunicipio": "VERGARA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 867,
+        "nombreMunicipio": "VIANI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 871,
+        "nombreMunicipio": "VILLAGOMEZ"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 873,
+        "nombreMunicipio": "VILLAPINZON"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 875,
+        "nombreMunicipio": "VILLETA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 878,
+        "nombreMunicipio": "VIOTA"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "YACOPI"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 898,
+        "nombreMunicipio": "ZIPACON"
+    },
+    {
+        "codigoDeapartamento": 25,
+        "nombreDepartamento": "CUNDINAMARCA",
+        "codigo_Municipio": 899,
+        "nombreMunicipio": "ZIPAQUIRA"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "QUIBDO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "006",
+        "nombreMunicipio": "ACANDI"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "025",
+        "nombreMunicipio": "ALTO BAUDO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "050",
+        "nombreMunicipio": "ATRATO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "073",
+        "nombreMunicipio": "BAGADO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "075",
+        "nombreMunicipio": "BAHIA SOLANO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "077",
+        "nombreMunicipio": "BAJO BAUDO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": "099",
+        "nombreMunicipio": "BOJAYA"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 135,
+        "nombreMunicipio": "EL CANTON DEL SAN PABLO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 150,
+        "nombreMunicipio": "CARMEN DEL DARIEN"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 160,
+        "nombreMunicipio": "CERTEGUI"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 205,
+        "nombreMunicipio": "CONDOTO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL CARMEN DE ATRATO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL LITORAL DEL SAN JUAN"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 361,
+        "nombreMunicipio": "ISTMINA"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 372,
+        "nombreMunicipio": "JURADO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 413,
+        "nombreMunicipio": "LLORO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 425,
+        "nombreMunicipio": "MEDIO ATRATO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "MEDIO BAUDO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 450,
+        "nombreMunicipio": "MEDIO SAN JUAN"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 491,
+        "nombreMunicipio": "NOVITA"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 495,
+        "nombreMunicipio": "NUQUI"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 580,
+        "nombreMunicipio": "RIO IRO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 600,
+        "nombreMunicipio": "RIO QUITO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 615,
+        "nombreMunicipio": "RIOSUCIO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SAN JOSE DEL PALMAR"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 745,
+        "nombreMunicipio": "SIPI"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 787,
+        "nombreMunicipio": "TADO"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 800,
+        "nombreMunicipio": "UNGUIA"
+    },
+    {
+        "codigoDeapartamento": 27,
+        "nombreDepartamento": "CHOCO",
+        "codigo_Municipio": 810,
+        "nombreMunicipio": "UNION PANAMERICANA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "NEIVA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "006",
+        "nombreMunicipio": "ACEVEDO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "013",
+        "nombreMunicipio": "AGRADO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "016",
+        "nombreMunicipio": "AIPE"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "020",
+        "nombreMunicipio": "ALGECIRAS"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "026",
+        "nombreMunicipio": "ALTAMIRA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": "078",
+        "nombreMunicipio": "BARAYA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 132,
+        "nombreMunicipio": "CAMPOALEGRE"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 206,
+        "nombreMunicipio": "COLOMBIA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 244,
+        "nombreMunicipio": "ELIAS"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 298,
+        "nombreMunicipio": "GARZON"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 306,
+        "nombreMunicipio": "GIGANTE"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 319,
+        "nombreMunicipio": "GUADALUPE"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 349,
+        "nombreMunicipio": "HOBO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 357,
+        "nombreMunicipio": "IQUIRA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 359,
+        "nombreMunicipio": "ISNOS"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 378,
+        "nombreMunicipio": "LA ARGENTINA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 396,
+        "nombreMunicipio": "LA PLATA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 483,
+        "nombreMunicipio": "NATAGA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 503,
+        "nombreMunicipio": "OPORAPA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 518,
+        "nombreMunicipio": "PAICOL"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 524,
+        "nombreMunicipio": "PALERMO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 530,
+        "nombreMunicipio": "PALESTINA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 548,
+        "nombreMunicipio": "PITAL"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 551,
+        "nombreMunicipio": "PITALITO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 615,
+        "nombreMunicipio": "RIVERA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SALADOBLANCO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 668,
+        "nombreMunicipio": "SAN AGUSTIN"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 676,
+        "nombreMunicipio": "SANTA MARIA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 770,
+        "nombreMunicipio": "SUAZA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 791,
+        "nombreMunicipio": "TARQUI"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 797,
+        "nombreMunicipio": "TESALIA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 799,
+        "nombreMunicipio": "TELLO"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 801,
+        "nombreMunicipio": "TERUEL"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 807,
+        "nombreMunicipio": "TIMANA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 872,
+        "nombreMunicipio": "VILLAVIEJA"
+    },
+    {
+        "codigoDeapartamento": 41,
+        "nombreDepartamento": "HUILA",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "YAGUARA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "RIOHACHA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": "035",
+        "nombreMunicipio": "ALBANIA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": "078",
+        "nombreMunicipio": "BARRANCAS"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": "090",
+        "nombreMunicipio": "DIBULLA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": "098",
+        "nombreMunicipio": "DISTRACCION"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 110,
+        "nombreMunicipio": "EL MOLINO"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 279,
+        "nombreMunicipio": "FONSECA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 378,
+        "nombreMunicipio": "HATONUEVO"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 420,
+        "nombreMunicipio": "LA JAGUA DEL PILAR"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "MAICAO"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 560,
+        "nombreMunicipio": "MANAURE"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 650,
+        "nombreMunicipio": "SAN JUAN DEL CESAR"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 847,
+        "nombreMunicipio": "URIBIA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 855,
+        "nombreMunicipio": "URUMITA"
+    },
+    {
+        "codigoDeapartamento": 44,
+        "nombreDepartamento": "LA GUAJIRA",
+        "codigo_Municipio": 874,
+        "nombreMunicipio": "VILLANUEVA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "SANTA MARTA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": "030",
+        "nombreMunicipio": "ALGARROBO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": "053",
+        "nombreMunicipio": "ARACATACA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": "058",
+        "nombreMunicipio": "ARIGUANI"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 161,
+        "nombreMunicipio": "CERRO SAN ANTONIO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 170,
+        "nombreMunicipio": "CHIBOLO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 189,
+        "nombreMunicipio": "CIENAGA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 205,
+        "nombreMunicipio": "CONCORDIA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL BANCO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 258,
+        "nombreMunicipio": "EL PIÑON"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 268,
+        "nombreMunicipio": "EL RETEN"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 288,
+        "nombreMunicipio": "FUNDACION"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUAMAL"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 460,
+        "nombreMunicipio": "NUEVA GRANADA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 541,
+        "nombreMunicipio": "PEDRAZA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 545,
+        "nombreMunicipio": "PIJIÑO DEL CARMEN"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 551,
+        "nombreMunicipio": "PIVIJAY"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 555,
+        "nombreMunicipio": "PLATO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 570,
+        "nombreMunicipio": "PUEBLOVIEJO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 605,
+        "nombreMunicipio": "REMOLINO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SABANAS DE SAN ANGEL"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 675,
+        "nombreMunicipio": "SALAMINA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 692,
+        "nombreMunicipio": "SAN SEBASTIAN DE BUENAVISTA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 703,
+        "nombreMunicipio": "SAN ZENON"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 707,
+        "nombreMunicipio": "SANTA ANA"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 720,
+        "nombreMunicipio": "SANTA BARBARA DE PINTO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 745,
+        "nombreMunicipio": "SITIONUEVO"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 798,
+        "nombreMunicipio": "TENERIFE"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 960,
+        "nombreMunicipio": "ZAPAYAN"
+    },
+    {
+        "codigoDeapartamento": 47,
+        "nombreDepartamento": "MAGDALENA",
+        "codigo_Municipio": 980,
+        "nombreMunicipio": "ZONA BANANERA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "VILLAVICENCIO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": "006",
+        "nombreMunicipio": "ACACIAS"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 110,
+        "nombreMunicipio": "BARRANCA DE UPIA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 124,
+        "nombreMunicipio": "CABUYARO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 150,
+        "nombreMunicipio": "CASTILLA LA NUEVA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 223,
+        "nombreMunicipio": "CUBARRAL"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 226,
+        "nombreMunicipio": "CUMARAL"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL CALVARIO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 251,
+        "nombreMunicipio": "EL CASTILLO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 270,
+        "nombreMunicipio": "EL DORADO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 287,
+        "nombreMunicipio": "FUENTE DE ORO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 313,
+        "nombreMunicipio": "GRANADA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUAMAL"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 325,
+        "nombreMunicipio": "MAPIRIPAN"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 330,
+        "nombreMunicipio": "MESETAS"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 350,
+        "nombreMunicipio": "LA MACARENA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 370,
+        "nombreMunicipio": "URIBE"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LEJANIAS"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 450,
+        "nombreMunicipio": "PUERTO CONCORDIA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 568,
+        "nombreMunicipio": "PUERTO GAITAN"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "PUERTO LOPEZ"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 577,
+        "nombreMunicipio": "PUERTO LLERAS"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 590,
+        "nombreMunicipio": "PUERTO RICO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 606,
+        "nombreMunicipio": "RESTREPO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 680,
+        "nombreMunicipio": "SAN CARLOS DE GUAROA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 683,
+        "nombreMunicipio": "SAN JUAN DE ARAMA"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SAN JUANITO"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 689,
+        "nombreMunicipio": "SAN MARTIN"
+    },
+    {
+        "codigoDeapartamento": 50,
+        "nombreDepartamento": "META",
+        "codigo_Municipio": 711,
+        "nombreMunicipio": "VISTAHERMOSA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "PASTO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "019",
+        "nombreMunicipio": "ALBAN"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "022",
+        "nombreMunicipio": "ALDANA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "036",
+        "nombreMunicipio": "ANCUYA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "051",
+        "nombreMunicipio": "ARBOLEDA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "079",
+        "nombreMunicipio": "BARBACOAS"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": "083",
+        "nombreMunicipio": "BELEN"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 110,
+        "nombreMunicipio": "BUESACO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 203,
+        "nombreMunicipio": "COLON"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 207,
+        "nombreMunicipio": "CONSACA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 210,
+        "nombreMunicipio": "CONTADERO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 215,
+        "nombreMunicipio": "CORDOBA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 224,
+        "nombreMunicipio": "CUASPUD"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 227,
+        "nombreMunicipio": "CUMBAL"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 233,
+        "nombreMunicipio": "CUMBITARA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 240,
+        "nombreMunicipio": "CHACHAGsI"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL CHARCO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 254,
+        "nombreMunicipio": "EL PEÑOL"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 256,
+        "nombreMunicipio": "EL ROSARIO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 258,
+        "nombreMunicipio": "EL TABLON DE GOMEZ"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 260,
+        "nombreMunicipio": "EL TAMBO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 287,
+        "nombreMunicipio": "FUNES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 317,
+        "nombreMunicipio": "GUACHUCAL"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 320,
+        "nombreMunicipio": "GUAITARILLA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 323,
+        "nombreMunicipio": "GUALMATAN"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 352,
+        "nombreMunicipio": "ILES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 354,
+        "nombreMunicipio": "IMUES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 356,
+        "nombreMunicipio": "IPIALES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 378,
+        "nombreMunicipio": "LA CRUZ"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 381,
+        "nombreMunicipio": "LA FLORIDA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 385,
+        "nombreMunicipio": "LA LLANADA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 390,
+        "nombreMunicipio": "LA TOLA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 399,
+        "nombreMunicipio": "LA UNION"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 405,
+        "nombreMunicipio": "LEIVA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 411,
+        "nombreMunicipio": "LINARES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 418,
+        "nombreMunicipio": "LOS ANDES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 427,
+        "nombreMunicipio": "MAGsI"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 435,
+        "nombreMunicipio": "MALLAMA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 473,
+        "nombreMunicipio": "MOSQUERA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 480,
+        "nombreMunicipio": "NARIÑO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 490,
+        "nombreMunicipio": "OLAYA HERRERA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 506,
+        "nombreMunicipio": "OSPINA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 520,
+        "nombreMunicipio": "FRANCISCO PIZARRO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 540,
+        "nombreMunicipio": "POLICARPA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 560,
+        "nombreMunicipio": "POTOSI"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 565,
+        "nombreMunicipio": "PROVIDENCIA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "PUERRES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 585,
+        "nombreMunicipio": "PUPIALES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 612,
+        "nombreMunicipio": "RICAURTE"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 621,
+        "nombreMunicipio": "ROBERTO PAYAN"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 678,
+        "nombreMunicipio": "SAMANIEGO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 683,
+        "nombreMunicipio": "SANDONA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 685,
+        "nombreMunicipio": "SAN BERNARDO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 687,
+        "nombreMunicipio": "SAN LORENZO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 693,
+        "nombreMunicipio": "SAN PABLO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 694,
+        "nombreMunicipio": "SAN PEDRO DE CARTAGO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 696,
+        "nombreMunicipio": "SANTA BARBARA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 699,
+        "nombreMunicipio": "SANTACRUZ"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 720,
+        "nombreMunicipio": "SAPUYES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 786,
+        "nombreMunicipio": "TAMINANGO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 788,
+        "nombreMunicipio": "TANGUA"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 835,
+        "nombreMunicipio": "SAN ANDRES DE TUMACO"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 838,
+        "nombreMunicipio": "TUQUERRES"
+    },
+    {
+        "codigoDeapartamento": 52,
+        "nombreDepartamento": "NARIÑO",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "YACUANQUER"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "CUCUTA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": "003",
+        "nombreMunicipio": "ABREGO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": "051",
+        "nombreMunicipio": "ARBOLEDAS"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": "099",
+        "nombreMunicipio": "BOCHALEMA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 109,
+        "nombreMunicipio": "BUCARASICA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 125,
+        "nombreMunicipio": "CACOTA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 128,
+        "nombreMunicipio": "CACHIRA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 172,
+        "nombreMunicipio": "CHINACOTA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 174,
+        "nombreMunicipio": "CHITAGA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 206,
+        "nombreMunicipio": "CONVENCION"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 223,
+        "nombreMunicipio": "CUCUTILLA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 239,
+        "nombreMunicipio": "DURANIA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL CARMEN"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL TARRA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 261,
+        "nombreMunicipio": "EL ZULIA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 313,
+        "nombreMunicipio": "GRAMALOTE"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 344,
+        "nombreMunicipio": "HACARI"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 347,
+        "nombreMunicipio": "HERRAN"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 377,
+        "nombreMunicipio": "LABATECA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 385,
+        "nombreMunicipio": "LA ESPERANZA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 398,
+        "nombreMunicipio": "LA PLAYA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 405,
+        "nombreMunicipio": "LOS PATIOS"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 418,
+        "nombreMunicipio": "LOURDES"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 480,
+        "nombreMunicipio": "MUTISCUA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 498,
+        "nombreMunicipio": "OCAÑA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 518,
+        "nombreMunicipio": "PAMPLONA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 520,
+        "nombreMunicipio": "PAMPLONITA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 553,
+        "nombreMunicipio": "PUERTO SANTANDER"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 599,
+        "nombreMunicipio": "RAGONVALIA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 660,
+        "nombreMunicipio": "SALAZAR"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAN CALIXTO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 673,
+        "nombreMunicipio": "SAN CAYETANO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 680,
+        "nombreMunicipio": "SANTIAGO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 720,
+        "nombreMunicipio": "SARDINATA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 743,
+        "nombreMunicipio": "SILOS"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 800,
+        "nombreMunicipio": "TEORAMA"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 810,
+        "nombreMunicipio": "TIBU"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 820,
+        "nombreMunicipio": "TOLEDO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 871,
+        "nombreMunicipio": "VILLA CARO"
+    },
+    {
+        "codigoDeapartamento": 54,
+        "nombreDepartamento": "N. DE SANTANDER",
+        "codigo_Municipio": 874,
+        "nombreMunicipio": "VILLA DEL ROSARIO"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "ARMENIA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 111,
+        "nombreMunicipio": "BUENAVISTA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 130,
+        "nombreMunicipio": "CALARCA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 190,
+        "nombreMunicipio": "CIRCASIA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 212,
+        "nombreMunicipio": "CORDOBA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 272,
+        "nombreMunicipio": "FILANDIA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 302,
+        "nombreMunicipio": "GENOVA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 401,
+        "nombreMunicipio": "LA TEBAIDA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 470,
+        "nombreMunicipio": "MONTENEGRO"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 548,
+        "nombreMunicipio": "PIJAO"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 594,
+        "nombreMunicipio": "QUIMBAYA"
+    },
+    {
+        "codigoDeapartamento": 63,
+        "nombreDepartamento": "QUINDIO",
+        "codigo_Municipio": 690,
+        "nombreMunicipio": "SALENTO"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "PEREIRA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": "045",
+        "nombreMunicipio": "APIA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": "075",
+        "nombreMunicipio": "BALBOA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": "088",
+        "nombreMunicipio": "BELEN DE UMBRIA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 170,
+        "nombreMunicipio": "DOSQUEBRADAS"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUATICA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 383,
+        "nombreMunicipio": "LA CELIA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LA VIRGINIA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 440,
+        "nombreMunicipio": "MARSELLA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 456,
+        "nombreMunicipio": "MISTRATO"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 572,
+        "nombreMunicipio": "PUEBLO RICO"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 594,
+        "nombreMunicipio": "QUINCHIA"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 682,
+        "nombreMunicipio": "SANTA ROSA DE CABAL"
+    },
+    {
+        "codigoDeapartamento": 66,
+        "nombreDepartamento": "RISARALDA",
+        "codigo_Municipio": 687,
+        "nombreMunicipio": "SANTUARIO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "BUCARAMANGA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "013",
+        "nombreMunicipio": "AGUADA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "020",
+        "nombreMunicipio": "ALBANIA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "051",
+        "nombreMunicipio": "ARATOCA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "077",
+        "nombreMunicipio": "BARBOSA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "079",
+        "nombreMunicipio": "BARICHARA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "081",
+        "nombreMunicipio": "BARRANCABERMEJA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": "092",
+        "nombreMunicipio": "BETULIA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 101,
+        "nombreMunicipio": "BOLIVAR"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 121,
+        "nombreMunicipio": "CABRERA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 132,
+        "nombreMunicipio": "CALIFORNIA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 147,
+        "nombreMunicipio": "CAPITANEJO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 152,
+        "nombreMunicipio": "CARCASI"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 160,
+        "nombreMunicipio": "CEPITA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 162,
+        "nombreMunicipio": "CERRITO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 167,
+        "nombreMunicipio": "CHARALA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 169,
+        "nombreMunicipio": "CHARTA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 176,
+        "nombreMunicipio": "CHIMA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 179,
+        "nombreMunicipio": "CHIPATA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 190,
+        "nombreMunicipio": "CIMITARRA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 207,
+        "nombreMunicipio": "CONCEPCION"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 209,
+        "nombreMunicipio": "CONFINES"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 211,
+        "nombreMunicipio": "CONTRATACION"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 217,
+        "nombreMunicipio": "COROMORO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 229,
+        "nombreMunicipio": "CURITI"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 235,
+        "nombreMunicipio": "EL CARMEN DE CHUCURI"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 245,
+        "nombreMunicipio": "EL GUACAMAYO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL PEÑON"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 255,
+        "nombreMunicipio": "EL PLAYON"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 264,
+        "nombreMunicipio": "ENCINO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 266,
+        "nombreMunicipio": "ENCISO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 271,
+        "nombreMunicipio": "FLORIAN"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 276,
+        "nombreMunicipio": "FLORIDABLANCA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 296,
+        "nombreMunicipio": "GALAN"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 298,
+        "nombreMunicipio": "GAMBITA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 307,
+        "nombreMunicipio": "GIRON"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUACA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 320,
+        "nombreMunicipio": "GUADALUPE"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 322,
+        "nombreMunicipio": "GUAPOTA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 324,
+        "nombreMunicipio": "GUAVATA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 327,
+        "nombreMunicipio": "GsEPSA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 344,
+        "nombreMunicipio": "HATO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 368,
+        "nombreMunicipio": "JESUS MARIA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 370,
+        "nombreMunicipio": "JORDAN"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 377,
+        "nombreMunicipio": "LA BELLEZA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 385,
+        "nombreMunicipio": "LANDAZURI"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 397,
+        "nombreMunicipio": "LA PAZ"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 406,
+        "nombreMunicipio": "LEBRIJA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 418,
+        "nombreMunicipio": "LOS SANTOS"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 425,
+        "nombreMunicipio": "MACARAVITA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 432,
+        "nombreMunicipio": "MALAGA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 444,
+        "nombreMunicipio": "MATANZA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 464,
+        "nombreMunicipio": "MOGOTES"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 468,
+        "nombreMunicipio": "MOLAGAVITA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 498,
+        "nombreMunicipio": "OCAMONTE"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 500,
+        "nombreMunicipio": "OIBA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 502,
+        "nombreMunicipio": "ONZAGA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 522,
+        "nombreMunicipio": "PALMAR"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 524,
+        "nombreMunicipio": "PALMAS DEL SOCORRO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 533,
+        "nombreMunicipio": "PARAMO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 547,
+        "nombreMunicipio": "PIEDECUESTA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 549,
+        "nombreMunicipio": "PINCHOTE"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 572,
+        "nombreMunicipio": "PUENTE NACIONAL"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "PUERTO PARRA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 575,
+        "nombreMunicipio": "PUERTO WILCHES"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 615,
+        "nombreMunicipio": "RIONEGRO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 655,
+        "nombreMunicipio": "SABANA DE TORRES"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 669,
+        "nombreMunicipio": "SAN ANDRES"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 673,
+        "nombreMunicipio": "SAN BENITO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 679,
+        "nombreMunicipio": "SAN GIL"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 682,
+        "nombreMunicipio": "SAN JOAQUIN"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 684,
+        "nombreMunicipio": "SAN JOSE DE MIRANDA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SAN MIGUEL"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 689,
+        "nombreMunicipio": "SAN VICENTE DE CHUCURI"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 705,
+        "nombreMunicipio": "SANTA BARBARA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 720,
+        "nombreMunicipio": "SANTA HELENA DEL OPON"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 745,
+        "nombreMunicipio": "SIMACOTA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 755,
+        "nombreMunicipio": "SOCORRO"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 770,
+        "nombreMunicipio": "SUAITA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 773,
+        "nombreMunicipio": "SUCRE"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 780,
+        "nombreMunicipio": "SURATA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 820,
+        "nombreMunicipio": "TONA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 855,
+        "nombreMunicipio": "VALLE DE SAN JOSE"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 861,
+        "nombreMunicipio": "VELEZ"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 867,
+        "nombreMunicipio": "VETAS"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 872,
+        "nombreMunicipio": "VILLANUEVA"
+    },
+    {
+        "codigoDeapartamento": 68,
+        "nombreDepartamento": "SANTANDER",
+        "codigo_Municipio": 895,
+        "nombreMunicipio": "ZAPATOCA"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "SINCELEJO"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 110,
+        "nombreMunicipio": "BUENAVISTA"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 124,
+        "nombreMunicipio": "CAIMITO"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 204,
+        "nombreMunicipio": "COLOSO"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 215,
+        "nombreMunicipio": "COROZAL"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 221,
+        "nombreMunicipio": "COVEÑAS"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 230,
+        "nombreMunicipio": "CHALAN"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 233,
+        "nombreMunicipio": "EL ROBLE"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 235,
+        "nombreMunicipio": "GALERAS"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 265,
+        "nombreMunicipio": "GUARANDA"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LA UNION"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 418,
+        "nombreMunicipio": "LOS PALMITOS"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 429,
+        "nombreMunicipio": "MAJAGUAL"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 473,
+        "nombreMunicipio": "MORROA"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 508,
+        "nombreMunicipio": "OVEJAS"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 523,
+        "nombreMunicipio": "PALMITO"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAMPUES"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 678,
+        "nombreMunicipio": "SAN BENITO ABAD"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 702,
+        "nombreMunicipio": "SAN JUAN DE BETULIA"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 708,
+        "nombreMunicipio": "SAN MARCOS"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 713,
+        "nombreMunicipio": "SAN ONOFRE"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 717,
+        "nombreMunicipio": "SAN PEDRO"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 742,
+        "nombreMunicipio": "SAN LUIS DE SINCE"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 771,
+        "nombreMunicipio": "SUCRE"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 820,
+        "nombreMunicipio": "SANTIAGO DE TOLU"
+    },
+    {
+        "codigoDeapartamento": 70,
+        "nombreDepartamento": "SUCRE",
+        "codigo_Municipio": 823,
+        "nombreMunicipio": "TOLU VIEJO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "IBAGUE"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "024",
+        "nombreMunicipio": "ALPUJARRA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "026",
+        "nombreMunicipio": "ALVARADO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "030",
+        "nombreMunicipio": "AMBALEMA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "043",
+        "nombreMunicipio": "ANZOATEGUI"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "055",
+        "nombreMunicipio": "ARMERO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": "067",
+        "nombreMunicipio": "ATACO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 124,
+        "nombreMunicipio": "CAJAMARCA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 148,
+        "nombreMunicipio": "CARMEN DE APICALA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 152,
+        "nombreMunicipio": "CASABIANCA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 168,
+        "nombreMunicipio": "CHAPARRAL"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 200,
+        "nombreMunicipio": "COELLO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 217,
+        "nombreMunicipio": "COYAIMA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 226,
+        "nombreMunicipio": "CUNDAY"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 236,
+        "nombreMunicipio": "DOLORES"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 268,
+        "nombreMunicipio": "ESPINAL"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 270,
+        "nombreMunicipio": "FALAN"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 275,
+        "nombreMunicipio": "FLANDES"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 283,
+        "nombreMunicipio": "FRESNO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 319,
+        "nombreMunicipio": "GUAMO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 347,
+        "nombreMunicipio": "HERVEO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 349,
+        "nombreMunicipio": "HONDA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 352,
+        "nombreMunicipio": "ICONONZO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 408,
+        "nombreMunicipio": "LERIDA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 411,
+        "nombreMunicipio": "LIBANO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 443,
+        "nombreMunicipio": "MARIQUITA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 449,
+        "nombreMunicipio": "MELGAR"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 461,
+        "nombreMunicipio": "MURILLO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 483,
+        "nombreMunicipio": "NATAGAIMA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 504,
+        "nombreMunicipio": "ORTEGA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 520,
+        "nombreMunicipio": "PALOCABILDO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 547,
+        "nombreMunicipio": "PIEDRAS"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 555,
+        "nombreMunicipio": "PLANADAS"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 563,
+        "nombreMunicipio": "PRADO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 585,
+        "nombreMunicipio": "PURIFICACION"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 616,
+        "nombreMunicipio": "RIOBLANCO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 622,
+        "nombreMunicipio": "RONCESVALLES"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 624,
+        "nombreMunicipio": "ROVIRA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 671,
+        "nombreMunicipio": "SALDAÑA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 675,
+        "nombreMunicipio": "SAN ANTONIO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 678,
+        "nombreMunicipio": "SAN LUIS"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 686,
+        "nombreMunicipio": "SANTA ISABEL"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 770,
+        "nombreMunicipio": "SUAREZ"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 854,
+        "nombreMunicipio": "VALLE DE SAN JUAN"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 861,
+        "nombreMunicipio": "VENADILLO"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 870,
+        "nombreMunicipio": "VILLAHERMOSA"
+    },
+    {
+        "codigoDeapartamento": 73,
+        "nombreDepartamento": "TOLIMA",
+        "codigo_Municipio": 873,
+        "nombreMunicipio": "VILLARRICA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "CALI"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": "020",
+        "nombreMunicipio": "ALCALA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": "036",
+        "nombreMunicipio": "ANDALUCIA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": "041",
+        "nombreMunicipio": "ANSERMANUEVO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": "054",
+        "nombreMunicipio": "ARGELIA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 100,
+        "nombreMunicipio": "BOLIVAR"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 109,
+        "nombreMunicipio": "BUENAVENTURA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 111,
+        "nombreMunicipio": "GUADALAJARA DE BUGA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 113,
+        "nombreMunicipio": "BUGALAGRANDE"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 122,
+        "nombreMunicipio": "CAICEDONIA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 126,
+        "nombreMunicipio": "CALIMA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 130,
+        "nombreMunicipio": "CANDELARIA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 147,
+        "nombreMunicipio": "CARTAGO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 233,
+        "nombreMunicipio": "DAGUA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 243,
+        "nombreMunicipio": "EL AGUILA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 246,
+        "nombreMunicipio": "EL CAIRO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 248,
+        "nombreMunicipio": "EL CERRITO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "EL DOVIO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 275,
+        "nombreMunicipio": "FLORIDA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 306,
+        "nombreMunicipio": "GINEBRA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 318,
+        "nombreMunicipio": "GUACARI"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 364,
+        "nombreMunicipio": "JAMUNDI"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 377,
+        "nombreMunicipio": "LA CUMBRE"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "LA UNION"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 403,
+        "nombreMunicipio": "LA VICTORIA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 497,
+        "nombreMunicipio": "OBANDO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 520,
+        "nombreMunicipio": "PALMIRA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 563,
+        "nombreMunicipio": "PRADERA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 606,
+        "nombreMunicipio": "RESTREPO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 616,
+        "nombreMunicipio": "RIOFRIO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 622,
+        "nombreMunicipio": "ROLDANILLO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 670,
+        "nombreMunicipio": "SAN PEDRO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 736,
+        "nombreMunicipio": "SEVILLA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 823,
+        "nombreMunicipio": "TORO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 828,
+        "nombreMunicipio": "TRUJILLO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 834,
+        "nombreMunicipio": "TULUA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 845,
+        "nombreMunicipio": "ULLOA"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 863,
+        "nombreMunicipio": "VERSALLES"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 869,
+        "nombreMunicipio": "VIJES"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 890,
+        "nombreMunicipio": "YOTOCO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 892,
+        "nombreMunicipio": "YUMBO"
+    },
+    {
+        "codigoDeapartamento": 76,
+        "nombreDepartamento": "VALLE DEL CAUCA",
+        "codigo_Municipio": 895,
+        "nombreMunicipio": "ZARZAL"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "ARAUCA"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": "065",
+        "nombreMunicipio": "ARAUQUITA"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": 220,
+        "nombreMunicipio": "CRAVO NORTE"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": 300,
+        "nombreMunicipio": "FORTUL"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": 591,
+        "nombreMunicipio": "PUERTO RONDON"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": 736,
+        "nombreMunicipio": "SARAVENA"
+    },
+    {
+        "codigoDeapartamento": 81,
+        "nombreDepartamento": "ARAUCA",
+        "codigo_Municipio": 794,
+        "nombreMunicipio": "TAME"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "YOPAL"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": "010",
+        "nombreMunicipio": "AGUAZUL"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": "015",
+        "nombreMunicipio": "CHAMEZA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 125,
+        "nombreMunicipio": "HATO COROZAL"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 136,
+        "nombreMunicipio": "LA SALINA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 139,
+        "nombreMunicipio": "MANI"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 162,
+        "nombreMunicipio": "MONTERREY"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 225,
+        "nombreMunicipio": "NUNCHIA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 230,
+        "nombreMunicipio": "OROCUE"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 250,
+        "nombreMunicipio": "PAZ DE ARIPORO"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 263,
+        "nombreMunicipio": "PORE"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 279,
+        "nombreMunicipio": "RECETOR"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 300,
+        "nombreMunicipio": "SABANALARGA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 315,
+        "nombreMunicipio": "SACAMA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 325,
+        "nombreMunicipio": "SAN LUIS DE PALENQUE"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 400,
+        "nombreMunicipio": "TAMARA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 410,
+        "nombreMunicipio": "TAURAMENA"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "TRINIDAD"
+    },
+    {
+        "codigoDeapartamento": 85,
+        "nombreDepartamento": "CASANARE",
+        "codigo_Municipio": 440,
+        "nombreMunicipio": "VILLANUEVA"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "MOCOA"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 219,
+        "nombreMunicipio": "COLON"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 320,
+        "nombreMunicipio": "ORITO"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 568,
+        "nombreMunicipio": "PUERTO ASIS"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 569,
+        "nombreMunicipio": "PUERTO CAICEDO"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 571,
+        "nombreMunicipio": "PUERTO GUZMAN"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 573,
+        "nombreMunicipio": "LEGUIZAMO"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 749,
+        "nombreMunicipio": "SIBUNDOY"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 755,
+        "nombreMunicipio": "SAN FRANCISCO"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 757,
+        "nombreMunicipio": "SAN MIGUEL"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 760,
+        "nombreMunicipio": "SANTIAGO"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 865,
+        "nombreMunicipio": "VALLE DEL GUAMUEZ"
+    },
+    {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "VILLAGARZON"
+    }, {
+        "codigoDeapartamento": 86,
+        "nombreDepartamento": "PUTUMAYO",
+        "codigo_Municipio": 0,
+        "nombreMunicipio": "La Hormiga"
+    },
+    {
+        "codigoDeapartamento": 88,
+        "nombreDepartamento": "SAN ANDRES",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "SAN ANDRES"
+    },
+    {
+        "codigoDeapartamento": 88,
+        "nombreDepartamento": "SAN ANDRES",
+        "codigo_Municipio": 564,
+        "nombreMunicipio": "PROVIDENCIA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "LETICIA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 263,
+        "nombreMunicipio": "EL ENCANTO"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 405,
+        "nombreMunicipio": "LA CHORRERA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 407,
+        "nombreMunicipio": "LA PEDRERA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 430,
+        "nombreMunicipio": "LA VICTORIA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 460,
+        "nombreMunicipio": "MIRITI - PARANA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 530,
+        "nombreMunicipio": "PUERTO ALEGRIA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 536,
+        "nombreMunicipio": "PUERTO ARICA"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 540,
+        "nombreMunicipio": "PUERTO NARIÑO"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 669,
+        "nombreMunicipio": "PUERTO SANTANDER"
+    },
+    {
+        "codigoDeapartamento": 91,
+        "nombreDepartamento": "AMAZONAS",
+        "codigo_Municipio": 798,
+        "nombreMunicipio": "TARAPACA"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "INIRIDA"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 343,
+        "nombreMunicipio": "BARRANCO MINAS"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 663,
+        "nombreMunicipio": "MAPIRIPANA"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 883,
+        "nombreMunicipio": "SAN FELIPE"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 884,
+        "nombreMunicipio": "PUERTO COLOMBIA"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 885,
+        "nombreMunicipio": "LA GUADALUPE"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 886,
+        "nombreMunicipio": "CACAHUAL"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 887,
+        "nombreMunicipio": "PANA PANA"
+    },
+    {
+        "codigoDeapartamento": 94,
+        "nombreDepartamento": "GUAINIA",
+        "codigo_Municipio": 888,
+        "nombreMunicipio": "MORICHAL"
+    },
+    {
+        "codigoDeapartamento": 95,
+        "nombreDepartamento": "GUAVIARE",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "SAN JOSE DEL GUAVIARE"
+    },
+    {
+        "codigoDeapartamento": 95,
+        "nombreDepartamento": "GUAVIARE",
+        "codigo_Municipio": "015",
+        "nombreMunicipio": "CALAMAR"
+    },
+    {
+        "codigoDeapartamento": 95,
+        "nombreDepartamento": "GUAVIARE",
+        "codigo_Municipio": "025",
+        "nombreMunicipio": "EL RETORNO"
+    },
+    {
+        "codigoDeapartamento": 95,
+        "nombreDepartamento": "GUAVIARE",
+        "codigo_Municipio": 200,
+        "nombreMunicipio": "MIRAFLORES"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "MITU"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": 161,
+        "nombreMunicipio": "CARURU"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": 511,
+        "nombreMunicipio": "PACOA"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": 666,
+        "nombreMunicipio": "TARAIRA"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": 777,
+        "nombreMunicipio": "PAPUNAUA"
+    },
+    {
+        "codigoDeapartamento": 97,
+        "nombreDepartamento": "VAUPES",
+        "codigo_Municipio": 889,
+        "nombreMunicipio": "YAVARATE"
+    },
+    {
+        "codigoDeapartamento": 99,
+        "nombreDepartamento": "VICHADA",
+        "codigo_Municipio": "001",
+        "nombreMunicipio": "PUERTO CARREÑO"
+    },
+    {
+        "codigoDeapartamento": 99,
+        "nombreDepartamento": "VICHADA",
+        "codigo_Municipio": 524,
+        "nombreMunicipio": "LA PRIMAVERA"
+    },
+    {
+        "codigoDeapartamento": 99,
+        "nombreDepartamento": "VICHADA",
+        "codigo_Municipio": 624,
+        "nombreMunicipio": "SANTA ROSALIA"
+    },
+    {
+        "codigoDeapartamento": 99,
+        "nombreDepartamento": "VICHADA",
+        "codigo_Municipio": 773,
+        "nombreMunicipio": "CUMARIBO"
+    }
+]

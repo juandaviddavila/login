@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,26 +13,32 @@
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600;800&display=swap" rel="stylesheet">
     <title>Login - Cuenti</title>
 </head>
+
 <body>
 
     <header class="background">
         <div class="contenedor">
             <div class="flex">
                 <div class="formulario">
-                        <h1 class="heading">Bienvenido a</h1>
-                        <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
-                        <p class="crea_cuenta">Ingresa tu Cuenta</p>
-                    <form id="formulario"> 
-                        <select id="select" class="input" name="numeros">
-                            <option value="servicios" selected>(57+) Colombia</option>
-                        </select>
-                            <input id="email" class="input" placeholder="Correo Electrónico" type="email">
-                            <input id="password" class="input" placeholder="Contraseña" type="password"> 
-                            <input id="enviar" class="submit" type="submit" value="iniciar sesión"><br>
-                            <input id="checkbox" type="checkbox" value="Recuerdame"> Recuerdame
+                    <h1 class="heading">Bienvenido a</h1>
+                    <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
+                    <p class="crea_cuenta">Ingresa tu Cuenta</p>
+                    <form id="formulario">
+                        <select id="select" class="input" name="numeros"></select>
+                        <input id="email" class="input" placeholder="Movil/Correo Electrónico" type="text"
+                            autocomplete="on">
+                        <input id="password" class="input" placeholder="Contraseña" type="password" autocomplete="off">
+                        <input id="enviar" class="submit" type="button" value="iniciar sesión"
+                            onclick="iniciarSesionPrevio()"><br>
+                        <input id="checkbox" type="checkbox" onclick="checkRecuerdame()" checked value="Recuerdame">
+                        Recuerdame
+                        <div id="divEmpresas" style="visibility:hidden">
+                            <br>Empresas:
+                            <select id="listaEmpresas" class="input"></select>
+                        </div>
                     </form>
                     <a class="enlaces" href="recuperar.html">¿Olvidaste tu contraseña?</a>
-                        <hr class="barra">
+                    <hr class="barra">
                     <div>
                         <p class="enlaces ">¿Aún no tienes Cuenta?</p>
                         <a class="iniciar_sesion" href="registro.html">CREAR CUENTA</a>
@@ -39,14 +46,14 @@
                             <a class="red" href="#"><img src="src/img/instagram.svg" alt="instagram"></a>
                             <a class="red" href="#"><img src="src/img/facebook.svg" alt="facebook"></a>
                             <a class="red" href="#"><img src="src/img/youtube.svg" alt="youtube"></a>
-                        </div> 
-                    </div>    
+                        </div>
+                    </div>
                 </div>
                 <div>
                     <p class="frase">Con Cuenti mi negocio <span>crece con inteligencia</span></p>
                 </div>
             </div>
-            
+
         </div>
     </header>
     <footer class="footer">
@@ -58,7 +65,17 @@
             </div>
         </div>
     </footer>
+
+    <script src="vendor/crypto/3.1.2/rollups/hmac-md5.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha1.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha256.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha512.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/aes.js"></script>
+
+    <script src="js/general.js"></script>
+    <script src="js/Config.js"></script>
     <script src="js/formularioLogin.js"></script>
-    <script src="js/paises.js"></script>
+
 </body>
+
 </html>

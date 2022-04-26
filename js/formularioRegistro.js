@@ -1,4 +1,5 @@
 let id_vendedor = 1
+let datosConfiguracionCuenta;
 var getParameterByName = function (name, url) {
     if (!url)
         url = window.location.href;
@@ -44,7 +45,7 @@ function eventListeners() {
 function iniciarApp() {
     btnEnviar.disabled = true;
     btnEnviar.classList.add('btnDisabled')
-
+    iniciador();
 }
 
 function validarFormulario(e) {
@@ -140,74 +141,96 @@ function mostrarError(mensaje) {
 async function nuevoUsuario(e) {
     e.preventDefault()
 
-
     const sectorSeleccionado = document.querySelector('#select').value;
     const nombre = document.querySelector('#nombre').value;
     const email_usuario = document.querySelector('#email').value;
     const usuario = document.querySelector('#email').value;
     const celular = document.querySelector('#numero').value;
     const clave = document.querySelector('#password').value;
-    let paisSeleccionado;
-    let ciudad;
-    let departamento;
-    const simbolo_moneda = '$';
-
-    const esJ4pro = 1
-    const id_usuario = 0;
-    try {
-        const url = 'https://freegeoip.app/json/'
-        const respuesta = await fetch(url)
-        const resultado = await respuesta.json()
-        paisSeleccionado = resultado.country_name
-        ciudad = resultado.city
-        departamento = resultado.region_code
-    } catch (error) {
-        console.log(error)
-    }
-
     let userNew = {
         id_usuario: "0",
         email_usuario: email_usuario,
         usuario: email_usuario,
         clave: clave,
-        paisSeleccionado: paisSeleccionado,
-        ciudad: ciudad,
-        departamento: departamento,
-        simbolo_moneda: simbolo_moneda,
+        paisSeleccionado: datosConfiguracionCuenta.pais,
+        ciudad: datosConfiguracionCuenta.ciudad,
+        departamento: datosConfiguracionCuenta.departamento,
+        simbolo_moneda: datosConfiguracionCuenta.moneda,
         nombre: nombre,
-        celular: celular,
+        celular: datosConfiguracionCuenta.indicador + "+" + celular,
         id_vendedor: id_vendedor,
-        esJ4pro: esJ4pro
+        esJ4pro: 1
     };
     console.log(userNew)
 
     try {
-        const url = 'https://api.j4pro.com/jServerj4ErpPro//j4pro/admin/usuario/grabarEmpresaUsuario'
+        const url = CONFIG.URLServices + '/j4pro/admin/usuario/grabarEmpresaUsuario'
         const respuesta = await fetch(url, {
             method: 'POST',
             body: JSON.stringify(userNew),
             headers: {
                 'Content-Type': 'application/json'
             }
-        })
+        });
         const resultado = await respuesta.json();
-        console.log(resultado)
+        console.log(resultado);
+        if (resultado.type == 1) {
+            console.log("pasa a loguear");
+        } else {
+            //muestra error
+            console.log(resultado.message);
+        }
     } catch (error) {
         console.log(error)
     }
 }
 
+var consultarSectores = async function () {
+    const url = CONFIG.URLServices + '/j4pro/admin/empresa/consultarSectores';
+    const respuesta = await fetch(url);
+    const resultado = await respuesta.json();
+    // console.log(resultado);
+    var select = document.querySelector('#select');
+    for (var i = 0; i < resultado.length; i++) {
+        var option = document.createElement("option");
+        option.text = resultado[i].nombre_sector_empresa;
+        option.value =resultado[i].id_sector_empresa;
+        select.add(option);
+    }
+};
+var consultarVendedorCode = async function (id_vendedor) {
+    const url = CONFIG.URLServices + '/com/j4ErpPro/server/api_sin_token/consultarVendedorCode/'+id_vendedor;
+    const respuesta = await fetch(url,{
+        headers: {
+            'Content-Type': 'application/json',
+            'accept': 'application/json, text/plain, */*'
+        }
+    });
+    const resultado = await respuesta.json();
+    if(resultado.length==0){
+        resultado=null;
+    }
+    return await resultado;
+};
 var iniciador = async function () {
     //id_vendedor
     let codigo = getParameterByName("codigo");
     if (codigo !== null) {
         id_vendedor = codigo;
     }
+    if(id_vendedor>1){
+      let datosvendedor=  consultarVendedorCode(id_vendedor);
+      //si es null poner id vendedor en 1
+      if(datosvendedor==null){
+        id_vendedor=1;
+      }
+      console.log(datosvendedor);
+    }
     console.log('id_vendedor:' + id_vendedor);
-    let retornoBase = await consultarPais();
-    console.log(retornoBase);
+    datosConfiguracionCuenta = await consultarPais();
+    console.log(datosConfiguracionCuenta);
     //lista de servicios
+    consultarSectores();
 }
-iniciador();
 
 
