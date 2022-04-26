@@ -292,7 +292,7 @@ var iniciarSesion = async function (id_empresa, usuario, clave, indicador) {
         //                sesion.permisosUsuario = "";
         //                sesion.permisosLista = "";
         localStorage.setItem("SessionUsuarioBase", JSON.stringify(sesion));
-        //paso aqui al erp
+        //paso aqui al erp si
     } else {
         //error en el login
         //'Usuario y/o Clave Incorrecto' en campo data.message
