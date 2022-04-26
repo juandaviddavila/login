@@ -148,6 +148,7 @@ async function nuevoUsuario(e) {
     const celular = document.querySelector('#numero').value;
     const clave = document.querySelector('#password').value;
     let userNew = {
+        selectorSeleccionado:sectorSeleccionado,
         id_usuario: "0",
         email_usuario: email_usuario,
         usuario: email_usuario,
