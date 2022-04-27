@@ -31,10 +31,10 @@ function eventListeners() {
     document.addEventListener('DOMContentLoaded', iniciarApp);
 
     select.addEventListener('change', validarFormulario);
-    nombre.addEventListener('blur', validarFormulario);
-    email.addEventListener('blur', validarFormulario);
-    numero.addEventListener('blur', validarFormulario);
-    password.addEventListener('blur', validarFormulario);
+    nombre.addEventListener('input', validarFormulario);
+    email.addEventListener('input', validarFormulario);
+    numero.addEventListener('input', validarFormulario);
+    password.addEventListener('input', validarFormulario);
     btnEnviar.addEventListener('click', nuevoUsuario);
 
 }
@@ -91,7 +91,7 @@ function validarFormulario(e) {
     }
 
     if (e.target.type === 'number') {
-        if (e.target.value.length == 10) {
+        if (e.target.value.length> 9) {
             if (error) {
                 error.remove();
             }
@@ -116,7 +116,7 @@ function validarFormulario(e) {
         }
     }
 
-    if (er.test(email.value) && nombre.value.length >= 3 && numero.value.length == 10 && password.value.length > 5) {
+    if (er.test(email.value) && nombre.value.length >= 3 && numero.value.length > 9 && password.value.length > 5) {
         btnEnviar.disabled = false;
         btnEnviar.classList.remove('btnDisabled')
     } else {
@@ -125,30 +125,35 @@ function validarFormulario(e) {
     }
 
 }
+
+
 function mostrarError(mensaje) {
     const mensajeError = document.createElement('p');
     mensajeError.textContent = mensaje
-    mensajeError.classList.add('mensajeError')
+    mensajeError.classList.add('mensajeError');
 
     const errores = document.querySelectorAll('.mensajeError');
     if (errores.length === 0) {
         formulario.appendChild(mensajeError)
+    }else{
+        //borar anterior
+        document.querySelectorAll('.mensajeError')[0].remove();
+        formulario.appendChild(mensajeError)
     }
-
 }
 
 
 async function nuevoUsuario(e) {
+ 
     e.preventDefault()
-
+    mostrarError('');
     const sectorSeleccionado = document.querySelector('#select').value;
     const nombre = document.querySelector('#nombre').value;
     const email_usuario = document.querySelector('#email').value;
-    const usuario = document.querySelector('#email').value;
     const celular = document.querySelector('#numero').value;
     const clave = document.querySelector('#password').value;
     let userNew = {
-        selectorSeleccionado:sectorSeleccionado,
+        selectorSeleccionado: sectorSeleccionado,
         id_usuario: "0",
         email_usuario: email_usuario,
         usuario: email_usuario,
@@ -162,7 +167,6 @@ async function nuevoUsuario(e) {
         id_vendedor: id_vendedor,
         esJ4pro: 1
     };
-    console.log(userNew)
 
     try {
         const url = CONFIG.URLServices + '/j4pro/admin/usuario/grabarEmpresaUsuario'
@@ -176,10 +180,12 @@ async function nuevoUsuario(e) {
         const resultado = await respuesta.json();
         console.log(resultado);
         if (resultado.type == 1) {
-            console.log("pasa a loguear");
+            await iniciarSesion(parseInt(resultado.retorno), email_usuario, clave, datosConfiguracionCuenta.indicador);
+            //window.location.href="carga.html"
         } else {
             //muestra error
             console.log(resultado.message);
+            mostrarError(resultado.message);
         }
     } catch (error) {
         console.log(error)
@@ -214,24 +220,42 @@ var consultarVendedorCode = async function (id_vendedor) {
     return await resultado;
 };
 var iniciador = async function () {
+    
     //id_vendedor
-    let codigo = getParameterByName("codigo");
+    let codigo = getParameterByName("codigo");//1000
     if (codigo !== null) {
         id_vendedor = codigo;
     }
     if(id_vendedor>1){
-      let datosvendedor=  consultarVendedorCode(id_vendedor);
+      let datosvendedor= await consultarVendedorCode(id_vendedor);
       //si es null poner id vendedor en 1
       if(datosvendedor==null){
         id_vendedor=1;
+        return;
       }
-      console.log(datosvendedor);
+      let nombreAliado = datosvendedor[0].nombre;
+      console.log(nombreAliado)
+
+      const mensajeContenedor = document.querySelector('#aliado-formulario')
+      const msgAliado = document.createElement('p')
+      msgAliado.textContent = nombreAliado
+      msgAliado.classList.add('nombreAliado')
+      mensajeContenedor.appendChild(msgAliado)
+
     }
     console.log('id_vendedor:' + id_vendedor);
     datosConfiguracionCuenta = await consultarPais();
     console.log(datosConfiguracionCuenta);
     //lista de servicios
     consultarSectores();
+}
+
+function mostrarAliado(mensaje) {
+    const aliado = document.querySelector('#aliado-formulario')
+    const aliadoMsg = document.createElement('p');
+    aliadoMsg.textContent = mensaje
+    aliadoMsg.classList.add('mensajeAliado')
+    aliado.appendChild(aliadoMsg)
 }
 
 

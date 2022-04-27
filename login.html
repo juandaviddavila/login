@@ -15,57 +15,79 @@
 </head>
 
 <body>
-
-    <header class="background">
-        <div class="contenedor">
-            <div class="flex">
-                <div class="formulario">
-                    <h1 class="heading">Bienvenido a</h1>
-                    <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
-                    <p class="crea_cuenta">Ingresa tu Cuenta</p>
-                    <form id="formulario">
-                        <select id="select" class="input" name="numeros"></select>
-                        <input id="email" class="input" placeholder="Movil/Correo Electrónico" type="text"
-                            autocomplete="on">
-                        <input id="password" class="input" placeholder="Contraseña" type="password" autocomplete="off">
-                        <input id="enviar" class="submit" type="button" value="iniciar sesión"
-                            onclick="iniciarSesionPrevio()"><br>
-                        <input id="checkbox" type="checkbox" onclick="checkRecuerdame()" checked value="Recuerdame">
-                        Recuerdame
-                        <div id="divEmpresas" style="visibility:hidden">
-                            <br>Empresas:
-                            <select id="listaEmpresas" class="input"></select>
-                        </div>
-                    </form>
-                    <a class="enlaces" href="recuperar.html">¿Olvidaste tu contraseña?</a>
-                    <hr class="barra">
-                    <div>
-                        <p class="enlaces ">¿Aún no tienes Cuenta?</p>
-                        <a class="iniciar_sesion" href="registro.html">CREAR CUENTA</a>
-                        <div class="redes">
-                            <a class="red" href="#"><img src="src/img/instagram.svg" alt="instagram"></a>
-                            <a class="red" href="#"><img src="src/img/facebook.svg" alt="facebook"></a>
-                            <a class="red" href="#"><img src="src/img/youtube.svg" alt="youtube"></a>
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <p class="frase">Con Cuenti mi negocio <span>crece con inteligencia</span></p>
-                </div>
+    <header id="div_carga" class="background-load" style="display:none">
+        <div class="contenedor-load">
+            <img class="logo-load" src="src/img/CuentiOscuro.svg" alt="logo">
+            <div>
+                <p class="texto-load"> Estamos Preparando Grandes cosas para ti...</p>
             </div>
-
+            <div class="sk-cube-grid">
+                <div class="sk-cube sk-cube1"></div>
+                <div class="sk-cube sk-cube2"></div>
+                <div class="sk-cube sk-cube3"></div>
+                <div class="sk-cube sk-cube4"></div>
+                <div class="sk-cube sk-cube5"></div>
+                <div class="sk-cube sk-cube6"></div>
+                <div class="sk-cube sk-cube7"></div>
+                <div class="sk-cube sk-cube8"></div>
+                <div class="sk-cube sk-cube9"></div>
+            </div>
         </div>
     </header>
-    <footer class="footer">
-        <div class="footer_flex">
-            <p class="footer__copy">© Cuenti 2022 - Todos los derechos reservados</p>
-            <div>
-                <img class="iso" src="src/img/Iso.svg" alt="cuenti logo">
-                <p class="footer_frase">- Fácil como <span>Siempre -</span></p>
-            </div>
-        </div>
-    </footer>
+    <div  id="div_trabajo">
+        <header class="background">
+            <div class="contenedor">
+                <div class="flex">
+                    <div class="formulario">
+                        <h1 class="heading">Bienvenido a</h1>
+                        <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
+                        <p class="crea_cuenta">Ingresa tu Cuenta</p>
 
+                        <form id="formulario">
+                            <select id="select" class="input" name="numeros"></select>
+                            <input id="email" class="input" placeholder="Movil/Correo Electrónico" type="text"
+                                autocomplete="on">
+                            <input id="password" class="input" placeholder="Contraseña" type="password"
+                                autocomplete="off">
+                            <input id="enviar" class="submit" type="button" value="iniciar sesión"
+                                onclick="iniciarSesionPrevio()"><br>
+                            <input id="checkbox" type="checkbox" onclick="checkRecuerdame()" checked value="Recuerdame">
+                            Recuerdame
+
+                            <div id="divEmpresas" style="display:none">
+                                <br>Empresas:
+                                <select id="listaEmpresas" class="input"></select>
+                            </div>
+                        </form>
+                        <a class="enlaces" href="recuperar.html">¿Olvidaste tu contraseña?</a>
+                        <hr class="barra">
+                        <div>
+                            <p class="enlaces ">¿Aún no tienes Cuenta?</p>
+                            <a class="iniciar_sesion" href="registro.html">CREAR CUENTA</a>
+                            <div class="redes">
+                                <a class="red" href="#"><img src="src/img/instagram.svg" alt="instagram"></a>
+                                <a class="red" href="#"><img src="src/img/facebook.svg" alt="facebook"></a>
+                                <a class="red" href="#"><img src="src/img/youtube.svg" alt="youtube"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="frase">Con Cuenti mi negocio <span>crece con inteligencia</span></p>
+                    </div>
+                </div>
+
+            </div>
+        </header>
+        <footer class="footer">
+            <div class="footer_flex">
+                <p class="footer__copy">© Cuenti 2022 - Todos los derechos reservados</p>
+                <div>
+                    <img class="iso" src="src/img/Iso.svg" alt="cuenti logo">
+                    <p class="footer_frase">- Fácil como <span>Siempre -</span></p>
+                </div>
+            </div>
+        </footer>
+    </div>
     <script src="vendor/crypto/3.1.2/rollups/hmac-md5.js"></script>
     <script src="vendor/crypto/3.1.2/rollups/hmac-sha1.js"></script>
     <script src="vendor/crypto/3.1.2/rollups/hmac-sha256.js"></script>

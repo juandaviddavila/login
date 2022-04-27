@@ -17,8 +17,8 @@ function eventListeners() {
     document.addEventListener('DOMContentLoaded', iniciarApp);
 
     select.addEventListener('change', validarFormulario);
-    email.addEventListener('blur', validarFormulario);
-    password.addEventListener('blur', validarFormulario);
+    email.addEventListener('input', validarFormulario);
+    password.addEventListener('input', validarFormulario);
 
 
     // btnEnviar.addEventListener('click', iniciarSesionPrevio);
@@ -37,7 +37,7 @@ function iniciarApp() {
 function validarFormulario(e) {
 
     if (e == undefined) {
-        btnEnviar.classList.remove('btnDisabled')
+        btnEnviar.classList.add('btnDisabled')
         return;
     }
 
@@ -54,7 +54,7 @@ function validarFormulario(e) {
     }
 
 
-    if (false && e.target.type === 'email') {
+    /* if (false && e.target.type === 'email') {
         if (er.test(e.target.value)) {
             e.target.style.borderColor = 'green';
         } else {
@@ -65,9 +65,9 @@ function validarFormulario(e) {
             e.target.style.borderColor = 'rgb(176, 53, 53)';
             mostrarError('- El Email No Es Valido -');
         }
-    }
+    } */
 
-    if (er.test(email.value) && password.value != '') {
+    if (email.value != '' && password.value != '') {
         btnEnviar.disabled = false;
         btnEnviar.classList.remove('btnDisabled')
     } else {
@@ -88,6 +88,10 @@ function mostrarError(mensaje) {
 
     const errores = document.querySelectorAll('.mensajeError');
     if (errores.length === 0) {
+        formulario.appendChild(mensajeError)
+    }else{
+        //borar anterior
+        document.querySelectorAll('.mensajeError')[0].remove();
         formulario.appendChild(mensajeError)
     }
 
@@ -143,158 +147,96 @@ var iniciarSesionPrevio = async function () {
     let usuario = document.querySelector('#email').value.trim();
     let clave = document.querySelector('#password').value.trim();
     let indicador = datosConfiguracionCuenta.indicador;
+    try {
+        // iniciarSesion(1, usuario, clave, indicador);
 
-    // iniciarSesion(1, usuario, clave, indicador);
-
-    if (location.port == CONFIG.puerto_app_desconectada) {
-        let url = location.origin + "/jServerj4ErpPro/";
-        if (location.port == "8383" || location.port == '5500') {
-            url = "http://localhost:8085/jServerj4ErpPro/";
-        }
-        try {
-            let respuesta = await fetch(url);
-            let resultado = await respuesta.json();
-            id_empresa = resultado.res;
-            /*  Ajax.agregarToken($sc.j4.dataEmpresa.token,
-                  $sc.j4.dataEmpresa.usuario_empresa,
-                  $sc.j4.dataEmpresa.empresa);
-              validarUsuarioBase(url + "com/j4ErpPro/server/transacion/mesas/validar_usuario");*/
-        } catch (error) {
-            alert("App de cuenti esta cerrada");
-            console.log(error);
-        }
-    } else {
-        if (document.getElementById("divEmpresas").style.visibility === 'visible') {
-            if (document.querySelector('#listaEmpresas').value.length > 0) {
-                id_empresa = document.querySelector('#listaEmpresas').value;
+        if (location.port == CONFIG.puerto_app_desconectada) {
+            let url = location.origin + "/jServerj4ErpPro/";
+            if (location.port == "8383" || location.port == '5500') {
+                url = "http://localhost:8085/jServerj4ErpPro/";
             }
-        }
-        //sigo camino login
-        if (id_empresa > 0) {
-            //logueo de una
-            iniciarSesion(id_empresa, usuario, clave, indicador);
+            try {
+                let respuesta = await fetch(url);
+                let resultado = await respuesta.json();
+                id_empresa = resultado.res;
+                /*  Ajax.agregarToken($sc.j4.dataEmpresa.token,
+                      $sc.j4.dataEmpresa.usuario_empresa,
+                      $sc.j4.dataEmpresa.empresa);
+                  validarUsuarioBase(url + "com/j4ErpPro/server/transacion/mesas/validar_usuario");*/
+            } catch (error) {
+                alert("App de cuenti esta cerrada");
+                console.log(error);
+            }
         } else {
-            //valido id empresa
-            const url = CONFIG.URLServices + '/j4pro/admin/usuario/consultarEmpresaUsuario';
-
-            let respuesta = await fetch(url, {
-                method: 'POST',
-                body: indicador + '+' + usuario,
-                headers: {
-                    'Content-Type': 'application/json',
-                    'accept': 'application/json, text/plain, */*'
+                if (document.querySelector('#listaEmpresas').value.length > 0) {
+                    id_empresa = document.querySelector('#listaEmpresas').value;
                 }
-            });
-
-            let data = await respuesta.json();
-            if (data.length > 0) {
-                if (data.length === 1) {
-                    document.getElementById("divEmpresas").style.visibility = "hidden"; // show
-                    //si solo ahi una empresa
-                    id_empresa = data[0].id_empresa;
-                    //loguear normal
-                    iniciarSesion(id_empresa, usuario, clave, indicador);
-                } else {
-                    //organizo listado de empresa
-                    //ordenar nombre empresa 
-                    //si empresa 1 developer e interpronsticos la 2 de primeras
-                    var dataAux2 = [];
-                    for (var i = 0; i < data.length; i++) {
-                        if (data[i].id_empresa === 1 || data[i].id_empresa === 2) {
-                            dataAux2.push(data[i]);
-                            data.splice(i, 1);
-                        }
-                    }
-                    var dataAux3 = sortJSON(data, 'nombre_empresa', 'asc');
-                    data = [];
-                    for (var i = 0; i < dataAux2.length; i++) {
-                        data.push(dataAux2[i]);
-                    }
-                    for (var i = 0; i < dataAux3.length; i++) {
-                        data.push(dataAux3[i]);
-                    }
-                    console.log(data);//lista de empresas
-                    const formularioSelect = document.querySelector('#listaEmpresas');
-                    //limpiar listado
-                    while (formularioSelect.length > 0) {
-                        formularioSelect.remove(0);
-                    }
-                    for (var i = 0; i < data.length; i++) {
-                        const option = document.createElement('option');
-                        option.text = data[i].nombre_empresa;
-                        option.value = data[i].id_empresa;
-                        formularioSelect.appendChild(option);
-                    }
-                    document.getElementById("divEmpresas").style.visibility = "visible"; // show
-                }
+            //sigo camino login
+            if (id_empresa > 0) {
+                //logueo de una
+                iniciarSesion(id_empresa, usuario, clave, indicador);
             } else {
-                //mando a loguear de una no ahi mas empresas pero no tiene empresa asignada
-                //mostrar erroro no tiene empresa asignada
+                //valido id empresa
+                const url = CONFIG.URLServices + '/j4pro/admin/usuario/consultarEmpresaUsuario';
+
+                let respuesta = await fetch(url, {
+                    method: 'POST',
+                    body: indicador + '+' + usuario,
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'accept': 'application/json, text/plain, */*'
+                    }
+                });
+
+                let data = await respuesta.json();
+                if (data.length > 0) {
+                    if (data.length === 1) {
+                        document.getElementById("divEmpresas").style.visibility = "hidden"; // show
+                        //si solo ahi una empresa
+                        id_empresa = data[0].id_empresa;
+                        //loguear normal
+                        iniciarSesion(id_empresa, usuario, clave, indicador);
+                    } else {
+                        //organizo listado de empresa
+                        //ordenar nombre empresa 
+                        //si empresa 1 developer e interpronsticos la 2 de primeras
+                        var dataAux2 = [];
+                        for (var i = 0; i < data.length; i++) {
+                            if (data[i].id_empresa === 1 || data[i].id_empresa === 2) {
+                                dataAux2.push(data[i]);
+                                data.splice(i, 1);
+                            }
+                        }
+                        var dataAux3 = sortJSON(data, 'nombre_empresa', 'asc');
+                        data = [];
+                        for (var i = 0; i < dataAux2.length; i++) {
+                            data.push(dataAux2[i]);
+                        }
+                        for (var i = 0; i < dataAux3.length; i++) {
+                            data.push(dataAux3[i]);
+                        }
+                        console.log(data);//lista de empresas
+                        const formularioSelect = document.querySelector('#listaEmpresas');
+                        //limpiar listado
+                        while (formularioSelect.length > 0) {
+                            formularioSelect.remove(0);
+                        }
+                        for (var i = 0; i < data.length; i++) {
+                            const option = document.createElement('option');
+                            option.text = data[i].nombre_empresa;
+                            option.value = data[i].id_empresa;
+                            formularioSelect.appendChild(option);
+                        }
+                        document.getElementById("divEmpresas").style.display = "block"; // show
+                    }
+                } else {
+                    //mando a loguear de una no ahi mas empresas pero no tiene empresa asignada
+                    //mostrar erroro no tiene empresa asignada
+                }
             }
         }
+    } catch (error) {
+        mostrarError(error.stack);
     }
 };
 
-var iniciarSesion = async function (id_empresa, usuario, clave, indicador) {
-
-    const url = CONFIG.URLServices + '/j4pro/seguridad/validar_usuario_base';
-
-    let respuesta = await fetch(url, {
-        method: 'POST',
-        body: JSON.stringify(
-            {
-                "usuario_empresa": usuario,
-                "password": clave,
-                "idEmpresa": id_empresa,
-                "pais": indicador
-            }
-        ),
-        headers: {
-            'Content-Type': 'application/json',
-            'accept': 'application/json, text/plain, */*',
-            'X-Auth-Token-empresa': id_empresa,
-            'X-Auth-Token-es-base': 1
-        }
-    });
-    let data = await respuesta.json();
-    if (data.type === 1) {
-        if (location.port != CONFIG.puerto_app_desconectada) {
-            localStorage.removeItem("id_consecutivoAsignado");
-            localStorage.removeItem("consecutivo");
-            localStorage.removeItem("fechaActualizacionBdErp");
-            sessionStorage.removeItem("intentos_carga");
-            sessionStorage.removeItem("pantallaPlan");
-            sessionStorage.removeItem("planEmpresa");
-            sessionStorage.removeItem("modoVistaCambiar");
-            sessionStorage.removeItem("estadoSincronizacionProductos");
-            localStorage.removeItem("parametros_recordar");
-            localStorage.removeItem("notificaciones");
-            localStorage.removeItem("fechaActualizacionNotificaciones");
-            window.localStorage.removeItem('Sucursal');
-        }
-        localStorage.removeItem("imagenEmpresa");
-        if (location.href.indexOf("main_nomina.html") > -1) {
-            localStorage.setItem("es_nomina", 1);
-            sessionStorage.setItem("es_nomina", 1);
-            mainRedireccion = 'main_nomina.html';
-        } else {
-            localStorage.removeItem("es_nomina");
-            sessionStorage.removeItem("es_nomina");
-        }
-        let dataEmpresa = JSON.parse(data.retorno);
-
-        localStorage.setItem("SessionUsuarioBase", "hola");
-        var sesion = JSON.parse(data.retorno);
-        sesion.permisosUsuario = CryptoJS.AES.encrypt(JSON.stringify(sesion.permisosUsuario),
-            'secret key 123 GQus5484!uj(!8!(?=54;,,').toString();
-        sesion.permisosLista = CryptoJS.AES.encrypt(JSON.stringify(sesion.permisosLista),
-            'secret key 123 GQus5484!uj(!8!(?=54;,,').toString();
-        //                sesion.permisosUsuario = "";
-        //                sesion.permisosLista = "";
-        localStorage.setItem("SessionUsuarioBase", JSON.stringify(sesion));
-        //paso aqui al erp si
-    } else {
-        //error en el login
-        //'Usuario y/o Clave Incorrecto' en campo data.message
-    }
-};

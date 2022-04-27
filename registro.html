@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,87 +14,137 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.7/glider.min.css">
     <title>Crear Cuenta - Cuenti</title>
 </head>
+
 <body>
-
-    <header class="background_registro">
-        <div class="contenedor">
-            <div class="flex">
-                <div class="formulario">
-                     <h1 class="heading">Bienvenido a</h1>
-                     <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
-                     <p class="crea_cuenta">¡Crea tu cuenta gratis!</p>
-                     <p class="texto">Prueba nuestros sistema por 7 días</p>
-                 <form id="formulario">   
-                         <select id="select" class="input" name="servicios" placeholder="Servicios">
-                           
-                         </select>
-                         <input id="nombre" class="input" placeholder="Nombre Contácto" type="text">
-                         <input id="email" class="input" placeholder="Correo Electrónico" type="email">
-                         <input id="numero" class="input" placeholder="Número Celular" type="number">
-                         <input id="password" class="input" placeholder="Contraseña" type="password">
-                         <input id="enviar" class="submit" type="submit" value="crear cuenta" onclick="iniciarSesion()">
-                 </form>
-                 <p class="terminos">Al crear tu cuenta aceptas nuestros<a target="blank" href="https://j4pro.com/Terminos_Condicones.pdf"> Términos Condiciones</a> y <a target="blank" href="https://j4pro.com/Politica_tratamiento_de_datos.pdf"> Política de Tratamiento de Datos.</a>  
-                     Incluido el uso de cookies. Es posible que recibas notificaciones por SMS, correo electrónico o llamada al número de celular registrado de Cuenti.</p>
-                     <hr class="barra">
-                 <div>
-                     <p class="enlaces ">¿Ya tienes una cuenta?</p>
-                     <a class="iniciar_sesion" href="login.html">INICIA SESIÓN</a>
-                     <div class="redes">
-                         <a class="red" href="#"><img src="src/img/instagram.svg" alt="instagram"></a>
-                         <a class="red" href="#"><img src="src/img/facebook.svg" alt="facebook"></a>
-                         <a class="red" href="#"><img src="src/img/youtube.svg" alt="youtube"></a>
-                     </div> 
-                 </div>    
-                </div>
-
-                <div class="testimonial">
-
-                    <div class="carousel_contenedor">
-                        <div class="carousel_flechas">
-                            <button class="carousel_anterior"><</button>
-                            <button class="carousel_siguiente">></button>
-                        </div>
-                            <div class="carousel_lista">
-                                <div class="carousel_elemento">
-                                    <img class="testimonial_imagen" src="src/img/tes1.webp" alt="testimonios">
-                                    <p class="testimonial_nombre">JULIANA - COSSPANES</p>
-                                    <p class="testimonial_parrafo">Mi experiencia con Cuenti ha sido excelente. Me ha ayudado a facilitar el día a día llevando un control de mi inventario pudiendo así tomar mejores desiciones para el crecimiento de mi empresa</p>
-                                </div>
-                                <div class="carousel_elemento">
-                                    <img class="testimonial_imagen" src="src/img/tes1.webp" alt="testimonios">
-                                    <p class="testimonial_nombre">JULIANA - COSSPANES</p>
-                                    <p class="testimonial_parrafo">Mi experiencia con Cuenti ha sido excelente. Me ha ayudado a facilitar el día a día llevando un control de mi inventario pudiendo así tomar mejores desiciones para el crecimiento de mi empresa</p>
-                                </div>
-                                <div class="carousel_elemento">
-                                    <img class="testimonial_imagen" src="src/img/tes1.webp" alt="testimonios">
-                                    <p class="testimonial_nombre">JULIANA - COSSPANES</p>
-                                    <p class="testimonial_parrafo">Mi experiencia con Cuenti ha sido excelente. Me ha ayudado a facilitar el día a día llevando un control de mi inventario pudiendo así tomar mejores desiciones para el crecimiento de mi empresa</p>
-                                </div>
-                                <div class="carousel_elemento">
-                                    <img class="testimonial_imagen" src="src/img/tes1.webp" alt="testimonios">
-                                    <p class="testimonial_nombre">JULIANA - COSSPANES</p>
-                                    <p class="testimonial_parrafo">Mi experiencia con Cuenti ha sido excelente. Me ha ayudado a facilitar el día a día llevando un control de mi inventario pudiendo así tomar mejores desiciones para el crecimiento de mi empresa</p>
-                                </div>
-                            </div>
-                        <div role="tablist" class="carousel_indicadores"></div>
-                    </div>
-                    
-                </div>
-
+    <header id="div_carga" class="background-load" style="display:none">
+        <div class="contenedor-load">
+            <img class="logo-load" src="src/img/CuentiOscuro.svg" alt="logo">
+            <div>
+                <p class="texto-load"> Estamos Preparando Grandes cosas para ti...</p>
             </div>
-            
+            <div class="sk-cube-grid">
+                <div class="sk-cube sk-cube1"></div>
+                <div class="sk-cube sk-cube2"></div>
+                <div class="sk-cube sk-cube3"></div>
+                <div class="sk-cube sk-cube4"></div>
+                <div class="sk-cube sk-cube5"></div>
+                <div class="sk-cube sk-cube6"></div>
+                <div class="sk-cube sk-cube7"></div>
+                <div class="sk-cube sk-cube8"></div>
+                <div class="sk-cube sk-cube9"></div>
+            </div>
         </div>
     </header>
-    <footer class="footer">
-        <div class="footer_flex">
-            <p class="footer__copy">© Cuenti 2022 - Todos los derechos reservados</p>
-            <div>
-                <img class="iso" src="src/img/Iso.svg" alt="cuenti logo">
-                <p class="footer_frase">- Fácil como <span>Siempre -</span></p>
+    <div id="div_trabajo">
+        <header class="background_registro">
+            <div class="contenedor">
+                <div class="flex">
+                    <div class="formulario">
+
+                        <h1 class="heading">Bienvenido a</h1>
+                        <img class="logo" src="src/img/Cuenti.svg" alt="cuenti">
+                        <p class="crea_cuenta">¡Crea tu cuenta gratis!</p>
+                        <p class="texto">Prueba nuestros sistema por 7 días</p>
+                        <div id="aliado-formulario"></div>
+                        <form id="formulario">
+                            <select id="select" class="input" name="servicios" placeholder="Servicios">
+
+                            </select>
+                            <input id="nombre" class="input" placeholder="Nombre Contácto" type="text">
+                            <input id="email" class="input" placeholder="Correo Electrónico" type="email">
+                            <input id="numero" class="input" placeholder="Número Celular" type="number">
+                            <input id="password" class="input" placeholder="Contraseña" type="password">
+                            <input id="enviar" class="submit" type="submit" value="crear cuenta">
+                        </form>
+                        <p class="terminos">Al crear tu cuenta aceptas nuestros<a target="blank"
+                                href="https://j4pro.com/Terminos_Condicones.pdf"> Términos Condiciones</a> y <a
+                                target="blank" href="https://j4pro.com/Politica_tratamiento_de_datos.pdf"> Política de
+                                Tratamiento de Datos.</a>
+                            Incluido el uso de cookies. Es posible que recibas notificaciones por SMS, correo
+                            electrónico o llamada al número de celular registrado de Cuenti.</p>
+                        <hr class="barra">
+                        <div>
+                            <p class="enlaces ">¿Ya tienes una cuenta?</p>
+                            <a class="iniciar_sesion" href="login.html">INICIA SESIÓN</a>
+                            <div class="redes">
+                                <a class="red" href="#"><img src="src/img/instagram.svg" alt="instagram"></a>
+                                <a class="red" href="#"><img src="src/img/facebook.svg" alt="facebook"></a>
+                                <a class="red" href="#"><img src="src/img/youtube.svg" alt="youtube"></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="testimonial">
+
+                        <div class="carousel_contenedor">
+                            <div class="carousel_flechas">
+                                <button class="carousel_anterior">
+                                    << /button>
+                                        <button class="carousel_siguiente">></button>
+                            </div>
+                            <div class="carousel_lista">
+                                <div class="carousel_elemento">
+                                    <img class="testimonial_imagen" src="src/img/testimonio1.webp" alt="testimonios">
+                                    <div>
+                                        <p class="testimonial_nombre">Paola</p>
+                                        <p class="testimonial_cargo">Gerente de Sabbath</p>
+                                        <p class="testimonial_parrafo">Con Cuenti, es mucho mas fácil llevar la
+                                            contabilidad de la empresa, podemos tener una base de datos de los
+                                            proveedores y tenemos al día informes de los gastos de la empresa. Ademas
+                                            podemos visualizar fácilmente las cuentas pendientes por cobrar y tener
+                                            mayor control de los ingresos.</p>
+                                    </div>
+                                </div>
+                                <div class="carousel_elemento">
+                                    <img class="testimonial_imagen" src="src/img/testimonio2.webp" alt="testimonios">
+                                    <p class="testimonial_nombre">Julian</p>
+                                    <p class="testimonial_cargo">Administrador de Cossmotos</p>
+                                    <p class="testimonial_parrafo">Mi experiencia con Cuenti ha sido excelente. Me ha
+                                        ayudado a facilitar el día a día llevando un control de mi inventario pudiendo
+                                        así tomar mejores desiciones para el crecimiento de mi empresa.</p>
+                                </div>
+                                <div class="carousel_elemento">
+                                    <img class="testimonial_imagen" src="src/img/testimonio3.png" alt="testimonios">
+                                    <p class="testimonial_nombre">Livy</p>
+                                    <p class="testimonial_cargo">Gerente de Viva Digital</p>
+                                    <p class="testimonial_parrafo">No me imagino trabajando sin el software, es lo
+                                        primordial, mi mano derecha... ahí tengo mis clientes, mis proveedores, tengo
+                                        mis cuentas por cobrar, mis cuentas por pagar, todo. toda mi empresa esta
+                                        descargada en el software.</p>
+                                </div>
+                                <div class="carousel_elemento">
+                                    <img class="testimonial_imagen" src="src/img/testimonio4.png" alt="testimonios">
+                                    <p class="testimonial_nombre">Rosally</p>
+                                    <p class="testimonial_cargo">Directora Operativa de Sushi World</p>
+                                    <p class="testimonial_parrafo">Antes todo era muy manual, con tablas de Excel y
+                                        calculadora... ahora solo tengo que ir al software buscar informes y ya.
+                                        Entonces todo se facilita mucho.</p>
+                                </div>
+                            </div>
+                            <div role="tablist" class="carousel_indicadores"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
             </div>
-        </div>
-    </footer>
+        </header>
+        <footer class="footer">
+            <div class="footer_flex">
+                <p class="footer__copy">© Cuenti 2022 - Todos los derechos reservados</p>
+                <div>
+                    <img class="iso" src="src/img/Iso.svg" alt="cuenti logo">
+                    <p class="footer_frase">- Fácil como <span>Siempre -</span></p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-md5.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha1.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha256.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/hmac-sha512.js"></script>
+    <script src="vendor/crypto/3.1.2/rollups/aes.js"></script>
     <script src="js/general.js"></script>
     <script src="js/Config.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/glider-js@1.7.7/glider.min.js"></script>
@@ -101,4 +152,5 @@
     <script src="js/formularioRegistro.js"></script>
 
 </body>
+
 </html>

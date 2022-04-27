@@ -112,9 +112,7 @@ function sortJSON(data, key, orden) {
     });
 }
 Array.prototype.keySort = function (keys) {
-
     keys = keys || {};
-
     // via
     // https://stackoverflow.com/questions/5223/length-of-javascript-object-ie-associative-array
     var obLen = function (obj) {
@@ -125,7 +123,6 @@ Array.prototype.keySort = function (keys) {
         }
         return size;
     };
-
     // avoiding using Object.keys because I guess did it have IE8 issues?
     // else var obIx = function(obj, ix){ return Object.keys(obj)[ix]; } or
     // whatever
@@ -140,7 +137,6 @@ Array.prototype.keySort = function (keys) {
         }
         return false;
     };
-
     var keySort = function (a, b, d) {
         d = d !== null ? d : 1;
         // a = a.toLowerCase(); // this breaks numbers
@@ -177,4 +173,177 @@ Array.prototype.keySort = function (keys) {
         return sorted;
     });
     return this;
+};
+
+
+var iniciarSesion = async function (id_empresa, usuario, clave, indicador) {
+    let url = CONFIG.URLServices + '/j4pro/seguridad/validar_usuario_base';
+    let respuesta = await fetch(url, {
+        method: 'POST',
+        body: JSON.stringify(
+            {
+                "usuario_empresa": usuario,
+                "password": clave,
+                "idEmpresa": id_empresa,
+                "pais": indicador
+            }
+        ),
+        headers: {
+            'Content-Type': 'application/json',
+            'accept': 'application/json, text/plain, */*',
+            'X-Auth-Token-empresa': id_empresa,
+            'X-Auth-Token-es-base': 1
+        }
+    });
+    let data = await respuesta.json();
+    if (data.type === 1) {
+        if (location.port != CONFIG.puerto_app_desconectada) {
+            localStorage.removeItem("id_consecutivoAsignado");
+            localStorage.removeItem("consecutivo");
+            localStorage.removeItem("fechaActualizacionBdErp");
+            sessionStorage.removeItem("intentos_carga");
+            sessionStorage.removeItem("pantallaPlan");
+            sessionStorage.removeItem("planEmpresa");
+            sessionStorage.removeItem("modoVistaCambiar");
+            sessionStorage.removeItem("estadoSincronizacionProductos");
+            localStorage.removeItem("parametros_recordar");
+            localStorage.removeItem("notificaciones");
+            localStorage.removeItem("fechaActualizacionNotificaciones");
+            window.localStorage.removeItem('Sucursal');
+        }
+        localStorage.removeItem("imagenEmpresa");
+        if (location.href.indexOf("main_nomina.html") > -1) {
+            localStorage.setItem("es_nomina", 1);
+            sessionStorage.setItem("es_nomina", 1);
+            mainRedireccion = 'main_nomina.html';
+        } else {
+            localStorage.removeItem("es_nomina");
+            sessionStorage.removeItem("es_nomina");
+        }
+        let dataEmpresa = JSON.parse(data.retorno);
+
+        localStorage.setItem("SessionUsuarioBase", "hola");
+        var sesion = JSON.parse(data.retorno);
+        sesion.permisosUsuario = CryptoJS.AES.encrypt(JSON.stringify(sesion.permisosUsuario),
+            'secret key 123 GQus5484!uj(!8!(?=54;,,').toString();
+        sesion.permisosLista = CryptoJS.AES.encrypt(JSON.stringify(sesion.permisosLista),
+            'secret key 123 GQus5484!uj(!8!(?=54;,,').toString();
+        //                sesion.permisosUsuario = "";
+        //                sesion.permisosLista = "";
+        localStorage.setItem("SessionUsuarioBase", JSON.stringify(sesion));
+
+        let es_contador = sesion.es_contador;
+        es_contador = es_contador === undefined ? 0 : es_contador;
+
+        let empresasLoginDomain = {
+            "token": sesion.token,
+            "idEmpresa": sesion.id_empresa,
+            "usuario_empresa": sesion.id_usuario,
+            "es_contador": es_contador
+        };
+
+        try {
+
+            document.getElementById("div_trabajo").style.display = "none"; // show
+            document.getElementById("div_carga").style.display = "block"; // show
+
+            let url_desconectada = '';
+            if (location.port == CONFIG.puerto_app_desconectada) {
+                url = location.origin + "/jServerj4ErpPro/";
+                if (location.port == "8383") {
+                    url_desconectada = "http://localhost:8085/jServerj4ErpPro/";
+                }
+            }
+            if (url_desconectada.length == 0) {
+                url = CONFIG.URLServicesErp + '/j4pro/seguridad/validar_usuario_erp';
+                respuesta = await fetch(url, {
+                    method: 'POST',
+                    body: JSON.stringify(empresasLoginDomain),
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'accept': 'application/json, text/plain, */*',
+                        'X-Auth-Token-empresa': id_empresa,
+                        'X-Auth-Token-es-base': 1,
+                        'X-Auth-Token-id-usuario': sesion.usuario,
+                        'X-Auth-Token-usuario': sesion.usuario
+                    }
+                });
+            } else {
+                url = url_desconectada + '/j4pro/seguridad/validar_usuario_erp';
+                respuesta = await fetch(url, {
+                    method: 'POST',
+                    body: empresasLoginDomain.usuario_empresa,
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'accept': 'application/json, text/plain, */*',
+                        'X-Auth-Token-empresa': id_empresa,
+                        'X-Auth-Token-es-base': 1,
+                        'X-Auth-Token-id-usuario': sesion.usuario,
+                        'X-Auth-Token-usuario': sesion.usuario
+                    }
+                });
+            }
+            data = await respuesta.json();
+            if (data.type === 1) {
+                //token de erp
+                localStorage.setItem('estado_pull', 'iniciado');
+                localStorage.setItem('SessionUsuarioErp', data.retorno);
+                //paso aqui al erp si
+                setTimeout(function () {
+                    // window.location.href = "carga.html"
+                }, 1000 * 1);
+            } else if (data.type === 0 && data.retorno === "Empresa no existe") {
+                document.getElementById("div_trabajo").style.display = "block"; // show
+                document.getElementById("div_carga").style.display = "none"; // show
+
+                console.error(data.retorno);
+                mostrarError(data.retorno);
+            } else if (data.type === 0 && data.retorno === "La Aplicación no esta activa") {
+                document.getElementById("div_trabajo").style.display = "block"; // show
+                document.getElementById("div_carga").style.display = "none"; // show
+
+                console.error(data.retorno);//"Actualmente su plan esta desativado por favor comuniquese al correo directivos@interpronosticos.com"
+                mostrarError("Actualmente su plan esta desativado por favor comuniquese al correo directivos@interpronosticos.com");
+            } else if (data.type === 0 && data.retorno === "") {
+                document.getElementById("div_trabajo").style.display = "block"; // show
+                document.getElementById("div_carga").style.display = "none"; // show
+
+                console.error(data.retorno);//"No valido " + data.retorno + data.message + " o intente de nuevo"
+                mostrarError("No valido " + data.retorno + data.message + " o intente de nuevo");
+                localStorage.removeItem("id_consecutivoAsignado");
+                localStorage.removeItem("consecutivo");
+                localStorage.removeItem("busqCodigoBarras");
+                localStorage.removeItem("fechaActualizacionBdErp");
+                localStorage.removeItem("fechaActualizacionNotificacionesExistencias");
+                localStorage.removeItem('idioma_j4pro_base');
+                localStorage.removeItem('idioma_j4pro_erp');
+                localStorage.removeItem('estado_pull');
+                localStorage.removeItem('SessionUsuarioErp');
+                localStorage.removeItem('SessionUsuarioBase');
+                localStorage.removeItem('Sucursal');
+                localStorage.removeItem("pedidoMesa");
+                sessionStorage.removeItem("planEmpresa");
+            } else {
+                document.getElementById("div_trabajo").style.display = "block"; // show
+                document.getElementById("div_carga").style.display = "none"; // show
+
+                console.error(data.retorno);// data.message
+                mostrarError(data.message);
+            }
+        } catch (error) {
+            document.getElementById("div_trabajo").style.display = "block"; // show
+            document.getElementById("div_carga").style.display = "none"; // show
+
+            mostrarError(error.stack);
+        }
+    } else {
+        //error en el login
+        //'Usuario y/o Clave Incorrecto' en campo data.message
+        document.getElementById("div_trabajo").style.display = "block"; // show
+        document.getElementById("div_carga").style.display = "none"; // show
+        if (data.message == "validar") {
+            data.message = 'Usuario y/o Clave Incorrecto';
+        }
+        mostrarError(data.message)
+    }
 };
